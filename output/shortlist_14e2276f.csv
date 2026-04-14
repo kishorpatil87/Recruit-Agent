@@ -1,0 +1,5 @@
+rank,full_name,email,total_score,confidence,blocker_count,red_flag_count,top_skills,suggested_questions
+1,KISHOR PATIL,kishorpatil7112@gmail.com,56.0,high,0,0,Languages: C++; Python; SQL; Data Engineering: ETL; Data Cleaning,Can you elaborate on your experience with ML and NLP? | How do you approach data engineering and data visualization? | Can you walk me through your project on end-to-end data pipeline?
+2,UDIT PANJIYAR,udit.30mi@gmail.com,46.25,medium,1,2,Languages: C; C++ (Advanced; Java; JavaScript; TypeScript,Can you explain your experience with python? | How do you think your skills align with the ML domain? | Can you walk me through your project development process?
+3,DINESH SAHARE,dsahare024@gmail.com,0.0,low,0,1,steering; and suspension; hubs; and wheel assemblies to improve; handling,
+4,VISHAL JAGDALE,vishaljagdale6168@gmail.com,0.0,low,0,1,Languages: Java; JavaScript; Typescript; Frameworks: React.js; Node.js,

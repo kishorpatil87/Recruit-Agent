@@ -1,0 +1,488 @@
+{
+  "run_id": "98734542-7c16-4483-9048-d8f1718f76f8",
+  "jd_title": "Python Engineer",
+  "jd_company": "",
+  "role_level": "mid",
+  "total_candidates": 4,
+  "fast_track_count": 0,
+  "shortlist_count": 0,
+  "hold_count": 4,
+  "reject_count": 0,
+  "entries": [
+    {
+      "rank": 1,
+      "candidate_id": "cand_0000_1167d7",
+      "full_name": "Thermodynamics Interview Questions",
+      "email": "",
+      "total_score": 0.0,
+      "decision": "hold",
+      "fast_track": false,
+      "blocker_count": 0,
+      "delta_to_next": 0.0,
+      "confidence": "low",
+      "confidence_reason": "Evaluation error",
+      "top_skills": [],
+      "red_flag_count": 0,
+      "red_flags": [],
+      "missing_requirements": [],
+      "suggested_questions": [],
+      "dimension_scores": [],
+      "error": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\nPlease retry in 50.774283867s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_input_token_count\"\n  quota_id: \"GenerateContentInputTokensPerModelPerMinute-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.0-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\nviolations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.0-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\nviolations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.0-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\n, retry_delay {\n  seconds: 50\n}\n]"
+    },
+    {
+      "rank": 2,
+      "candidate_id": "cand_0001_8532d4",
+      "full_name": "KISHOR PATIL",
+      "email": "kishorpatil7112@gmail.com",
+      "total_score": 0.0,
+      "decision": "hold",
+      "fast_track": false,
+      "blocker_count": 0,
+      "delta_to_next": 0.0,
+      "confidence": "low",
+      "confidence_reason": "Evaluation error",
+      "top_skills": [
+        "Languages: C++",
+        "Python",
+        "SQL",
+        "Data Engineering: ETL",
+        "Data Cleaning"
+      ],
+      "red_flag_count": 0,
+      "red_flags": [],
+      "missing_requirements": [],
+      "suggested_questions": [],
+      "dimension_scores": [],
+      "error": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\nPlease retry in 50.463775588s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.0-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\nviolations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.0-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\nviolations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_input_token_count\"\n  quota_id: \"GenerateContentInputTokensPerModelPerMinute-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.0-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\n, retry_delay {\n  seconds: 50\n}\n]"
+    },
+    {
+      "rank": 3,
+      "candidate_id": "cand_0002_fa2d88",
+      "full_name": "KISHOR PATIL",
+      "email": "kishorpatil7112@gmail.com",
+      "total_score": 0.0,
+      "decision": "hold",
+      "fast_track": false,
+      "blocker_count": 0,
+      "delta_to_next": 0.0,
+      "confidence": "low",
+      "confidence_reason": "Evaluation error",
+      "top_skills": [
+        "Languages: C++",
+        "Python",
+        "SQL",
+        "Data Engineering: ETL",
+        "Data Cleaning"
+      ],
+      "red_flag_count": 0,
+      "red_flags": [],
+      "missing_requirements": [],
+      "suggested_questions": [],
+      "dimension_scores": [],
+      "error": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\nPlease retry in 50.498730042s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_input_token_count\"\n  quota_id: \"GenerateContentInputTokensPerModelPerMinute-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.0-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\nviolations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.0-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\nviolations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.0-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\n, retry_delay {\n  seconds: 50\n}\n]"
+    },
+    {
+      "rank": 4,
+      "candidate_id": "cand_0003_a05491",
+      "full_name": "KISHOR PATIL",
+      "email": "kishorpatil7112@gmail.com",
+      "total_score": 0.0,
+      "decision": "hold",
+      "fast_track": false,
+      "blocker_count": 0,
+      "delta_to_next": 0.0,
+      "confidence": "low",
+      "confidence_reason": "Evaluation error",
+      "top_skills": [
+        "Languages: C++",
+        "Python",
+        "SQL",
+        "Data Engineering: ETL",
+        "Data Cleaning"
+      ],
+      "red_flag_count": 0,
+      "red_flags": [],
+      "missing_requirements": [],
+      "suggested_questions": [],
+      "dimension_scores": [],
+      "error": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\nPlease retry in 50.557271534s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.0-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\nviolations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.0-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\nviolations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_input_token_count\"\n  quota_id: \"GenerateContentInputTokensPerModelPerMinute-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.0-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\n, retry_delay {\n  seconds: 50\n}\n]"
+    }
+  ],
+  "scorecards": [
+    {
+      "candidate_id": "cand_0000_1167d7",
+      "full_name": "Thermodynamics Interview Questions",
+      "total_score": 0.0,
+      "decision": "hold",
+      "fast_track": false,
+      "blocker_count": 0,
+      "dimension_scores": [],
+      "missing_requirements": [],
+      "red_flags": [],
+      "confidence": "low",
+      "confidence_reason": "Evaluation error",
+      "suggested_questions": [],
+      "role_level": "junior",
+      "error": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\nPlease retry in 50.774283867s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_input_token_count\"\n  quota_id: \"GenerateContentInputTokensPerModelPerMinute-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.0-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\nviolations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.0-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\nviolations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.0-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\n, retry_delay {\n  seconds: 50\n}\n]",
+      "email": "",
+      "resume": {
+        "candidate_id": "cand_0000_1167d7",
+        "raw_path": "C:\\Users\\Kishor\\AppData\\Local\\Temp\\recruitment_t5dbvq9u\\c6c6ce04ba2c4f6fa936053fda40426a_Technical Interview Questions.docx",
+        "raw_text": "Thermodynamics Interview Questions\nBasic Concepts\n1\ufe0f\u20e3 What is thermodynamics?\n2\ufe0f\u20e3 Define system, surroundings, and universe.\n3\ufe0f\u20e3 What is a closed system?\n4\ufe0f\u20e3 What is an open system (control volume)?\n5\ufe0f\u20e3 What is a thermodynamic property?\n6\ufe0f\u20e3 Difference between intensive and extensive properties.\n7\ufe0f\u20e3 What is thermodynamic equilibrium?\n8\ufe0f\u20e3 What is a quasi-static process?\n9\ufe0f\u20e3 What is a cyclic process?\n\ud83d\udd1f What is a state and a path?\nEnergy Concepts\n1\ufe0f\u20e3 What is internal energy?\n2\ufe0f\u20e3 What is enthalpy?\n3\ufe0f\u20e3 Difference between heat and work.\n4\ufe0f\u20e3 What is specific heat?\n5\ufe0f\u20e3 What is flow energy?\n6\ufe0f\u20e3 What is potential energy?\n7\ufe0f\u20e3 What is kinetic energy?\n8\ufe0f\u20e3 What is total energy of a system?\n9\ufe0f\u20e3 What is a thermodynamic cycle?\n0\ufe0f\u20e3 What is mechanical equivalent of heat?\nLaws of Thermodynamics\n1\ufe0f\u20e3 State the first law of thermodynamics.\ndelta u = q - w\n2\ufe0f\u20e3 What are the limitations of the first law?\n3\ufe0f\u20e3 State the second law of thermodynamics.\n4\ufe0f\u20e3 Explain Kelvin-Planck statement.\n5\ufe0f\u20e3 Explain Clausius statement.\n6\ufe0f\u20e3 Why are two statements of the second law needed?\n7\ufe0f\u20e3 State the third law of thermodynamics.\n8\ufe0f\u20e3 Why is absolute zero not attainable?\nGas Laws\n9\ufe0f\u20e3 What is an ideal gas?\n0\ufe0f\u20e3 What is a real gas?\n1\ufe0f\u20e3 What is compressibility factor?\n2\ufe0f\u20e3 Difference between ideal gas and real gas.\nThermodynamic Processes\n3\ufe0f\u20e3 What is an isothermal process?\n4\ufe0f\u20e3 What is an adiabatic process?\n5\ufe0f\u20e3 What is a polytropic process?\n6\ufe0f\u20e3 What is throttling?\n7\ufe0f\u20e3 What is free expansion?\n8\ufe0f\u20e3 What is a reversible process?\n9\ufe0f\u20e3 What is an irreversible process?\nEntropy and Availability\n0\ufe0f\u20e3 Define entropy.\n1\ufe0f\u20e3 What is entropy generation?\n2\ufe0f\u20e3 What is available energy?\n3\ufe0f\u20e3 What is unavailable energy?\n4\ufe0f\u20e3 What is exergy?\nThermodynamic Cycles\n5\ufe0f\u20e3 What is the Carnot cycle?\n6\ufe0f\u20e3 Why is Carnot cycle the most efficient?\n7\ufe0f\u20e3 What is the Otto cycle?\n8\ufe0f\u20e3 What is the Diesel cycle?\n9\ufe0f\u20e3 What is a Rankine cycle?\n0\ufe0f\u20e3 What is a refrigeration cycle?",
+        "full_name": "Thermodynamics Interview Questions",
+        "email": "",
+        "phone": "",
+        "github_url": "",
+        "linkedin_url": "",
+        "skills": [],
+        "total_experience_years": 0.0,
+        "education": [],
+        "certifications": [],
+        "projects": [],
+        "work_history": []
+      },
+      "github": {},
+      "linkedin": {},
+      "similarity_scores": {
+        "semantic_score": 0.0585,
+        "keyword_score": 0.0,
+        "composite_score": 0.0351
+      }
+    },
+    {
+      "candidate_id": "cand_0001_8532d4",
+      "full_name": "KISHOR PATIL",
+      "total_score": 0.0,
+      "decision": "hold",
+      "fast_track": false,
+      "blocker_count": 0,
+      "dimension_scores": [],
+      "missing_requirements": [],
+      "red_flags": [],
+      "confidence": "low",
+      "confidence_reason": "Evaluation error",
+      "suggested_questions": [],
+      "role_level": "junior",
+      "error": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\nPlease retry in 50.463775588s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.0-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\nviolations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.0-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\nviolations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_input_token_count\"\n  quota_id: \"GenerateContentInputTokensPerModelPerMinute-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.0-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\n, retry_delay {\n  seconds: 50\n}\n]",
+      "email": "kishorpatil7112@gmail.com",
+      "resume": {
+        "candidate_id": "cand_0001_8532d4",
+        "raw_path": "C:\\Users\\Kishor\\AppData\\Local\\Temp\\recruitment_t5dbvq9u\\20caf0ed226a4d7ea915c064339b9e38_kishor_patil_resume_2.pdf",
+        "raw_text": "KISHOR PATIL\n+91 8788156977 | kishorpatil7112@gmail.com | LinkedIn | GitHub\nSUMMARY\nComputer Science student focused on building scalable data-driven systems using Data Engineering, Machine Learning,\nand Cloud technologies. Experienced in designing end-to-end pipelines, data processing workflows, and AI-powered\napplications. Eager to apply my skills to real-world problems and grow as a data-focused engineer.\nEDUCATION\nVishwakarma Institute Of Information Technology,\nPune, MH\nBachelor of Technology in Computer Science Engineering (AIML); CGPA: 8.2\n2022-2026\nTECHNICAL SKILLS\nLanguages: C++, Python, SQL\nData Engineering: ETL, Data Cleaning, Data Transformation\nDatabases: MySQL , MongoDB\nData Visualization: Matplotlib, Power BI\nAI & ML: Machine Learning , Deep Learning, NLP, Generative AI\nCourses: Data Structures, Algorithms, DBMS, OOP, Operating Systems\nEXPERIENCE\nIntern | Two Registers\n(July 2025 - oct 2025)\n\u2022 Developed a web-based online examination system supporting question paper creation and online assessments.\n\u2022 Implemented a RAG-based evaluation system using FAISS and LLaMA 3 to generate MCQs, subjective ques-\ntions/answers, and enable auto-evaluation using gemini with manual grading support.\nPROJECTS\nHealthNodes: AI-Powered Healthcare Assistant (Nov 2024)\n\u2022 Performed data cleaning, feature engineering, and text normalization to prepare high-quality inputs for NLP-based\nclassification models.\n\u2022 Fine-Tuned BioBERT Transformer model for the prediction of human diseases based on text symptom Description.\n\u2022 Trained deep learning sequential model to detect the skin disease based on skin images.\nNetworksecurity (Jan 2025)\n\u2022 Designed and built an end-to-end data pipeline to ingest and preprocess website traffic and URL datasets for\nsecurity analysis.\n\u2022 Engineered a complete ML pipeline to verify websites as safe using ML models RF, DT, GBM, LR,and AdaBoost.\n\u2022 Deployed the solution on AWS EC2, with model artifacts stored in S3 bucket .\nCERTIFICATIONS\n\u2022 Data Engineering (NVIDIA)\n\u2022 Fundamentals of deep learning (COURSERA)\nACHIEVEMENTS\nImpact-Metrics: IIT Banaras (Dec 2024)\n\u2022 Secured 5th Rank in the final round of the Impact-Metrics 2024 hackathon.\n\u2022 Applied data cleaning, data transformaing, Data loading for the Earthquake dataset, Built a PowerBI dashboard\nand predictive model.",
+        "full_name": "KISHOR PATIL",
+        "email": "kishorpatil7112@gmail.com",
+        "phone": "+91 8788156977",
+        "github_url": "",
+        "linkedin_url": "",
+        "skills": [
+          "Languages: C++",
+          "Python",
+          "SQL",
+          "Data Engineering: ETL",
+          "Data Cleaning",
+          "Data Transformation",
+          "Databases: MySQL",
+          "MongoDB",
+          "Data Visualization: Matplotlib",
+          "Power BI",
+          "AI & ML: Machine Learning",
+          "Deep Learning",
+          "NLP",
+          "Generative AI",
+          "Courses: Data Structures",
+          "Algorithms",
+          "DBMS",
+          "OOP",
+          "Operating Systems"
+        ],
+        "total_experience_years": 0.2,
+        "education": [
+          {
+            "degree": "ma",
+            "institution": "Pune"
+          },
+          {
+            "degree": "Ba",
+            "institution": ""
+          }
+        ],
+        "certifications": [
+          "COURSERA)"
+        ],
+        "projects": [
+          {
+            "description": "HealthNodes: AI-Powered Healthcare Assistant (Nov 2024)"
+          },
+          {
+            "description": " Performed data cleaning, feature engineering, and text normalization to prepare high-quality inputs for NLP-based"
+          },
+          {
+            "description": "classification models."
+          },
+          {
+            "description": " Fine-Tuned BioBERT Transformer model for the prediction of human diseases based on text symptom Description."
+          },
+          {
+            "description": " Trained deep learning sequential model to detect the skin disease based on skin images."
+          },
+          {
+            "description": "Networksecurity (Jan 2025)"
+          },
+          {
+            "description": " Designed and built an end-to-end data pipeline to ingest and preprocess website traffic and URL datasets for"
+          },
+          {
+            "description": "security analysis."
+          },
+          {
+            "description": " Engineered a complete ML pipeline to verify websites as safe using ML models RF, DT, GBM, LR,and AdaBoost."
+          },
+          {
+            "description": " Deployed the solution on AWS EC2, with model artifacts stored in S3 bucket ."
+          }
+        ],
+        "work_history": []
+      },
+      "github": {},
+      "linkedin": {},
+      "similarity_scores": {
+        "semantic_score": 0.5466,
+        "keyword_score": 0.5,
+        "composite_score": 0.528
+      }
+    },
+    {
+      "candidate_id": "cand_0002_fa2d88",
+      "full_name": "KISHOR PATIL",
+      "total_score": 0.0,
+      "decision": "hold",
+      "fast_track": false,
+      "blocker_count": 0,
+      "dimension_scores": [],
+      "missing_requirements": [],
+      "red_flags": [],
+      "confidence": "low",
+      "confidence_reason": "Evaluation error",
+      "suggested_questions": [],
+      "role_level": "junior",
+      "error": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\nPlease retry in 50.498730042s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_input_token_count\"\n  quota_id: \"GenerateContentInputTokensPerModelPerMinute-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.0-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\nviolations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.0-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\nviolations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.0-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\n, retry_delay {\n  seconds: 50\n}\n]",
+      "email": "kishorpatil7112@gmail.com",
+      "resume": {
+        "candidate_id": "cand_0002_fa2d88",
+        "raw_path": "C:\\Users\\Kishor\\AppData\\Local\\Temp\\recruitment_t5dbvq9u\\fe9f8c5cd0a94cce9f82e1b87f0a6fae_kishor_patil_ress_26.pdf",
+        "raw_text": "KISHOR PATIL\n+91 8788156977 | kishorpatil7112@gmail.com | LinkedIn | GitHub\nSUMMARY\nComputer Science student focused on building scalable data-driven systems using Data Engineering, Machine Learning,\nand Cloud technologies. Experienced in designing end-to-end pipelines, data processing workflows, and AI-powered\napplications. Eager to apply my skills to real-world problems and grow as a data-focused engineer.\nEDUCATION\nVishwakarma Institute Of Information Technology,\nPune, MH\nBachelor of Technology in Computer Science Engineering (AIML); CGPA: 8.2\n2022-2026\nTECHNICAL SKILLS\nLanguages: C++, Python, SQL\nData Engineering: ETL, Data Cleaning, Data Transformation, Data Warehousing\nDatabases: MySQL , MongoDB\nMLOps: MLflow, DagsHub, Docker, CI/CD (Github Actions), AWS\nData Visualization: Matplotlib, Power BI\nAI & ML: Machine Learning , Deep Learning, Natural Language Processing, Generative AI, Agentic AI\nCourses: Data Structures, Algorithms, DBMS, OOP, Operating Systems\nEXPERIENCE\nIntern | Two Registers\n(July 2025 - oct 2025)\n\u2022 Developed a web-based online examination system supporting question paper creation and online assessments.\n\u2022 Implemented a RAG-based evaluation system using FAISS and LLaMA 3 to generate MCQs, subjective ques-\ntions/answers, and enable auto-evaluation using gemini with manual grading support.\nPROJECTS\nHealthNodes: AI-Powered Healthcare Assistant (Nov 2024)\n\u2022 Performed data cleaning, feature engineering, and text normalization to prepare high-quality inputs for NLP-based\nclassification models.\n\u2022 Fine-Tuned BioBERT Transformer model for the prediction of human diseases based on text symptom Description.\n\u2022 Trained deep learning sequential model to detect the skin disease based on skin images.\nNetworksecurity (Jan 2025)\n\u2022 Designed and built an end-to-end data pipeline to ingest and preprocess website traffic and URL datasets for\nsecurity analysis.\n\u2022 Engineered a complete ML pipeline to verify websites as safe using ML models RF, DT, GBM, LR,and AdaBoost.\n\u2022 Deployed the solution on AWS EC2, with model artifacts stored in S3 bucket .\nCERTIFICATIONS\n\u2022 Data Engineering (NVIDIA)\n\u2022 Fundamentals of deep learning (COURSERA)\nACHIEVEMENTS\nImpact-Metrics: IIT Banaras (Dec 2024)\n\u2022 Secured 5th Rank in the final round of the Impact-Metrics 2024 hackathon.\n\u2022 Applied data cleaning, data transformaing, Data loading for the Earthquake dataset, Built a PowerBI dashboard.",
+        "full_name": "KISHOR PATIL",
+        "email": "kishorpatil7112@gmail.com",
+        "phone": "+91 8788156977",
+        "github_url": "",
+        "linkedin_url": "",
+        "skills": [
+          "Languages: C++",
+          "Python",
+          "SQL",
+          "Data Engineering: ETL",
+          "Data Cleaning",
+          "Data Transformation",
+          "Data Warehousing",
+          "Databases: MySQL",
+          "MongoDB",
+          "MLOps: MLflow",
+          "DagsHub",
+          "Docker",
+          "CI/CD (Github Actions",
+          "AWS",
+          "Data Visualization: Matplotlib",
+          "Power BI",
+          "AI & ML: Machine Learning",
+          "Deep Learning",
+          "Natural Language Processing",
+          "Generative AI",
+          "Agentic AI",
+          "Courses: Data Structures",
+          "Algorithms",
+          "DBMS",
+          "OOP",
+          "Operating Systems"
+        ],
+        "total_experience_years": 0.2,
+        "education": [
+          {
+            "degree": "ma",
+            "institution": "Pune"
+          },
+          {
+            "degree": "Ba",
+            "institution": ""
+          }
+        ],
+        "certifications": [
+          "COURSERA)"
+        ],
+        "projects": [
+          {
+            "description": "HealthNodes: AI-Powered Healthcare Assistant (Nov 2024)"
+          },
+          {
+            "description": " Performed data cleaning, feature engineering, and text normalization to prepare high-quality inputs for NLP-based"
+          },
+          {
+            "description": "classification models."
+          },
+          {
+            "description": " Fine-Tuned BioBERT Transformer model for the prediction of human diseases based on text symptom Description."
+          },
+          {
+            "description": " Trained deep learning sequential model to detect the skin disease based on skin images."
+          },
+          {
+            "description": "Networksecurity (Jan 2025)"
+          },
+          {
+            "description": " Designed and built an end-to-end data pipeline to ingest and preprocess website traffic and URL datasets for"
+          },
+          {
+            "description": "security analysis."
+          },
+          {
+            "description": " Engineered a complete ML pipeline to verify websites as safe using ML models RF, DT, GBM, LR,and AdaBoost."
+          },
+          {
+            "description": " Deployed the solution on AWS EC2, with model artifacts stored in S3 bucket ."
+          }
+        ],
+        "work_history": []
+      },
+      "github": {},
+      "linkedin": {},
+      "similarity_scores": {
+        "semantic_score": 0.7044,
+        "keyword_score": 0.5,
+        "composite_score": 0.6226
+      }
+    },
+    {
+      "candidate_id": "cand_0003_a05491",
+      "full_name": "KISHOR PATIL",
+      "total_score": 0.0,
+      "decision": "hold",
+      "fast_track": false,
+      "blocker_count": 0,
+      "dimension_scores": [],
+      "missing_requirements": [],
+      "red_flags": [],
+      "confidence": "low",
+      "confidence_reason": "Evaluation error",
+      "suggested_questions": [],
+      "role_level": "junior",
+      "error": "429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 0, model: gemini-2.0-flash\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_input_token_count, limit: 0, model: gemini-2.0-flash\nPlease retry in 50.557271534s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerDayPerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.0-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\nviolations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.0-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\nviolations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_input_token_count\"\n  quota_id: \"GenerateContentInputTokensPerModelPerMinute-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.0-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n}\n, retry_delay {\n  seconds: 50\n}\n]",
+      "email": "kishorpatil7112@gmail.com",
+      "resume": {
+        "candidate_id": "cand_0003_a05491",
+        "raw_path": "C:\\Users\\Kishor\\AppData\\Local\\Temp\\recruitment_t5dbvq9u\\0389335e02ee4cc68d1692bfffd457fc_kishor_patil_res_2026.pdf",
+        "raw_text": "KISHOR PATIL\n+91 8788156977 | kishorpatil7112@gmail.com | LinkedIn | GitHub\nSUMMARY\nComputer Science student focused on building scalable data-driven systems using Data Engineering, Machine Learning,\nand Cloud technologies. Experienced in designing end-to-end pipelines, data processing workflows, and AI-powered\napplications. Eager to apply my skills to real-world problems and grow as a data-focused engineer.\nEDUCATION\nVishwakarma Institute Of Information Technology,\nPune, MH\nBachelor of Technology in Computer Science Engineering (AIML); CGPA: 8.2\n2022-2026\nTECHNICAL SKILLS\nLanguages: C++, Python,SQL\nData Engineering: ETL, Data Cleaning, Data Transformation, Data Warehousing\nDatabases: MySQL , MongoDB\nMLOps: MLflow, DagsHub, Docker, CI/CD (Github Actions), AWS\nData Visualization: Matplotlib, Power BI\nAI & ML: Machine Learning , ETL, Deep Learning, Natural Language Processing, Generative AI, Agentic AI\nCourses: Data Structures, Algorithms, DBMS, OOP, Operating Systems\nEXPERIENCE\nSoftware Engineer Intern | Two Registers\n(July 2025 - oct 2025)\n\u2022 Developed a web-based online examination system supporting question paper creation and online assessments.\n\u2022 Implemented a RAG-based evaluation system using FAISS and LLaMA 3 to generate MCQs, subjective ques-\ntions/answers, and enable auto-evaluation using gemini with manual grading support.\nPROJECTS\nPariksha: Online Examination and Assessment System (sept 2025)\n\u2022 Developed a web-based exam platform with student, teacher, and admin roles, enabling question paper creation.\n\u2022 Implemented a RAG model with FAISS and LLaMA 3 for generating MCQ\u2019s, subjective questions & answers.\n\u2022 Enabled online assessments with auto-evaluation using Gemini 1.5 Flash and manual grading support for teachers.\nHealthNodes: AI-Powered Healthcare Assistant (Nov 2024)\n\u2022 Fine-Tuned BioBERT Transformer model for the prediction of human diseases based on text symptom Description.\n\u2022 Trained deep learning sequential model to detect the skin disease based on skin images.\n\u2022 Performed data cleaning, feature engineering, and text normalization to prepare high-quality inputs for NLP-based\nclassification models.\nNetworksecurity (Jan 2025)\n\u2022 Engineered a complete ML pipeline to verify websites as safe using ML models RF, DT, GBM, LR,and AdaBoost.\n\u2022 Designed and built an end-to-end data pipeline to ingest and preprocess website traffic and URL datasets for\nsecurity analysis.\n\u2022 Deployed the solution on AWS EC2, with model artifacts stored in S3 bucket .\nCERTIFICATIONS\n\u2022 Machine Learning A-Z (Udemy)\n\u2022 Fundamentals of Deep Learning (COURSERA)\nACHIEVEMENTS\nImpact-Metrics: IIT Banaras (Dec 2024)\n\u2022 Secured 5th Rank in the final round of the Impact-Metrics 2024 hackathon.\n\u2022 Developed Power BI dashboard for World Earthquake dataset, Engineeered ML model for predictive insights.",
+        "full_name": "KISHOR PATIL",
+        "email": "kishorpatil7112@gmail.com",
+        "phone": "+91 8788156977",
+        "github_url": "",
+        "linkedin_url": "",
+        "skills": [
+          "Languages: C++",
+          "Python",
+          "SQL",
+          "Data Engineering: ETL",
+          "Data Cleaning",
+          "Data Transformation",
+          "Data Warehousing",
+          "Databases: MySQL",
+          "MongoDB",
+          "MLOps: MLflow",
+          "DagsHub",
+          "Docker",
+          "CI/CD (Github Actions",
+          "AWS",
+          "Data Visualization: Matplotlib",
+          "Power BI",
+          "AI & ML: Machine Learning",
+          "ETL",
+          "Deep Learning",
+          "Natural Language Processing",
+          "Generative AI",
+          "Agentic AI",
+          "Courses: Data Structures",
+          "Algorithms",
+          "DBMS",
+          "OOP",
+          "Operating Systems"
+        ],
+        "total_experience_years": 0.2,
+        "education": [
+          {
+            "degree": "ma",
+            "institution": "Pune"
+          },
+          {
+            "degree": "Ba",
+            "institution": ""
+          }
+        ],
+        "certifications": [
+          "Udemy)",
+          "COURSERA)"
+        ],
+        "projects": [
+          {
+            "description": "Pariksha: Online Examination and Assessment System (sept 2025)"
+          },
+          {
+            "description": " Developed a web-based exam platform with student, teacher, and admin roles, enabling question paper creation."
+          },
+          {
+            "description": " Implemented a RAG model with FAISS and LLaMA 3 for generating MCQ\u2019s, subjective questions & answers."
+          },
+          {
+            "description": " Enabled online assessments with auto-evaluation using Gemini 1.5 Flash and manual grading support for teachers."
+          },
+          {
+            "description": "HealthNodes: AI-Powered Healthcare Assistant (Nov 2024)"
+          },
+          {
+            "description": " Fine-Tuned BioBERT Transformer model for the prediction of human diseases based on text symptom Description."
+          },
+          {
+            "description": " Trained deep learning sequential model to detect the skin disease based on skin images."
+          },
+          {
+            "description": " Performed data cleaning, feature engineering, and text normalization to prepare high-quality inputs for NLP-based"
+          },
+          {
+            "description": "classification models."
+          },
+          {
+            "description": "Networksecurity (Jan 2025)"
+          }
+        ],
+        "work_history": []
+      },
+      "github": {},
+      "linkedin": {},
+      "similarity_scores": {
+        "semantic_score": 0.6945,
+        "keyword_score": 0.5,
+        "composite_score": 0.6167
+      }
+    }
+  ],
+  "weights_used": {
+    "jd_match": 0.45,
+    "github": 0.25,
+    "linkedin": 0.15,
+    "experience": 0.15
+  },
+  "thresholds": {
+    "fast_track": 88,
+    "shortlist": 75,
+    "hold": 50
+  },
+  "generated_at": "2026-04-02T20:07:09.905625",
+  "shortlisted": []
+}

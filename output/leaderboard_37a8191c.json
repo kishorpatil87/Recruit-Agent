@@ -1,0 +1,601 @@
+{
+  "run_id": "37a8191c-5fc0-4d3e-bc3f-ad4c97b193c2",
+  "jd_title": "Python Engineer",
+  "jd_company": "",
+  "role_level": "mid",
+  "total_candidates": 3,
+  "entries": [
+    {
+      "rank": 1,
+      "candidate_id": "cand_0000_88df1a",
+      "full_name": "KISHOR PATIL",
+      "email": "kishorpatil7112@gmail.com",
+      "total_score": 0.0,
+      "blocker_count": 0,
+      "delta_to_next": 0.0,
+      "confidence": "low",
+      "confidence_reason": "Evaluation failed: Server error '500 Internal Server Error' for url 'http://localhost:11434/api/chat'\nFor more informat",
+      "top_skills": [
+        "Languages: C++",
+        "Python",
+        "SQL",
+        "Frameworks & Libraries: Numpy",
+        "Pandas"
+      ],
+      "red_flag_count": 1,
+      "red_flags": [
+        "Evaluation error: Server error '500 Internal Server Error' for url 'http://localhost:11434/api/chat'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/500"
+      ],
+      "missing_requirements": [],
+      "suggested_questions": [],
+      "dimension_scores": [],
+      "error": "Server error '500 Internal Server Error' for url 'http://localhost:11434/api/chat'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/500",
+      "justification": "Score: 0.0/100 | Confidence: low | Blockers: 0"
+    },
+    {
+      "rank": 2,
+      "candidate_id": "cand_0001_851e77",
+      "full_name": "UDIT PANJIYAR",
+      "email": "udit.30mi@gmail.com",
+      "total_score": 0.0,
+      "blocker_count": 0,
+      "delta_to_next": 0.0,
+      "confidence": "low",
+      "confidence_reason": "Evaluation failed: Server error '500 Internal Server Error' for url 'http://localhost:11434/api/chat'\nFor more informat",
+      "top_skills": [
+        "Languages: C",
+        "C++ (Advanced",
+        "Java",
+        "JavaScript",
+        "TypeScript"
+      ],
+      "red_flag_count": 1,
+      "red_flags": [
+        "Evaluation error: Server error '500 Internal Server Error' for url 'http://localhost:11434/api/chat'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/500"
+      ],
+      "missing_requirements": [],
+      "suggested_questions": [],
+      "dimension_scores": [],
+      "error": "Server error '500 Internal Server Error' for url 'http://localhost:11434/api/chat'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/500",
+      "justification": "Score: 0.0/100 | Confidence: low | Blockers: 0"
+    },
+    {
+      "rank": 3,
+      "candidate_id": "cand_0002_ec4548",
+      "full_name": "VISHAL JAGDALE",
+      "email": "vishaljagdale6168@gmail.com",
+      "total_score": 0.0,
+      "blocker_count": 0,
+      "delta_to_next": 0.0,
+      "confidence": "low",
+      "confidence_reason": "Evaluation failed: Server error '500 Internal Server Error' for url 'http://localhost:11434/api/chat'\nFor more informat",
+      "top_skills": [
+        "Languages: Java",
+        "JavaScript",
+        "Typescript",
+        "Frameworks: React.js",
+        "Node.js"
+      ],
+      "red_flag_count": 1,
+      "red_flags": [
+        "Evaluation error: Server error '500 Internal Server Error' for url 'http://localhost:11434/api/chat'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/500"
+      ],
+      "missing_requirements": [],
+      "suggested_questions": [],
+      "dimension_scores": [],
+      "error": "Server error '500 Internal Server Error' for url 'http://localhost:11434/api/chat'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/500"
+    }
+  ],
+  "scorecards": [
+    {
+      "candidate_id": "cand_0000_88df1a",
+      "full_name": "KISHOR PATIL",
+      "email": "kishorpatil7112@gmail.com",
+      "total_score": 0.0,
+      "blocker_count": 0,
+      "dimension_scores": [],
+      "missing_requirements": [],
+      "red_flags": [
+        "Evaluation error: Server error '500 Internal Server Error' for url 'http://localhost:11434/api/chat'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/500"
+      ],
+      "confidence": "low",
+      "confidence_reason": "Evaluation failed: Server error '500 Internal Server Error' for url 'http://localhost:11434/api/chat'\nFor more informat",
+      "suggested_questions": [],
+      "role_level": "junior",
+      "error": "Server error '500 Internal Server Error' for url 'http://localhost:11434/api/chat'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/500",
+      "resume": {
+        "candidate_id": "cand_0000_88df1a",
+        "raw_path": "C:\\Users\\Kishor\\AppData\\Local\\Temp\\recruitment_6g7x_6sh\\9987132f7396496eb2af21b5243fd5e1_kishor_resume_AI.pdf",
+        "raw_text": "KISHOR PATIL\n+91 8788156977 | kishorpatil7112@gmail.com | LinkedIn | GitHub\nSUMMARY\nComputer Science student passionate about building scalable systems and working with Machine Learning, Generative\nand Agentic AI. I enjoy developing end-to-end projects and exploring new technologies. Looking for opportunities to\napply my skills to solve real-world problems\nEDUCATION\nVishwakarma Institute Of Information Technology,\nPune, MH\nBachelor of Technology in Computer Science Engineering (AIML); CGPA: 8.2\n2022-2026\nTECHNICAL SKILLS\nLanguages: C++, Python, SQL\nFrameworks & Libraries: Numpy, Pandas, Matplotlib, Scikit-learn, FastAPI, Langchain, Langgraph\nDatabases: MySQL , MongoDB\nAI & ML: Machine Learning , MLOps, Deep Learning, Natural Language Processing, Generative AI, Agentic AI\nCore Courses: Object Oriented Programming, Data Structures, Algorithms, Database Management System\nEXPERIENCE\nPariksha: Online Examination and Assessment System | Industry Project\n\u2022 Developed a web-based online examination system supporting question paper creation and online assessments.\n\u2022 Implemented Langchain based RAG evaluation system using FAISS and LLaMA 3 to generate MCQs, subjective\nquestions/answers, and enable auto-evaluation using gemini with manual grading support.\nPROJECTS\nRecruitAgent: AI-powered candidate screening and ranking system \u0087 GitHub\n\u2022 Built RecruitAgent AI, a multi-agent pipeline for automated resume parsing, scoring, and candidate ranking.\n\u2022 Leveraged LangGraph and Groq to extract insights, enrich profiles via GitHub/LinkedIn, and compute weighted\nevaluations.\n\u2022 Developed a FastAPI-based backend for real-time processing and intelligent shortlisting\nSafeSurf AI: ML-based System for Malicious Website Detection\n\u0087 GitHub\n\u2022 Designed and built an end-to-end data pipeline to ingest and preprocess website traffic and URL datasets for\nsecurity analysis.\n\u2022 Engineered a complete ML pipeline to verify websites as safe using ML models RF, DT, GBM, and LR.\n\u2022 Implemented CI/CD pipeline using GitHub Actions, containerized the application with Docker,Deployed the\nsolution on AWS EC2.\nACHIEVEMENTS\nImpact-Metrics: IIT Banaras\n\u2022 Secured 5th Rank in the final round of the Impact-Metrics 2024 hackathon.\n\u2022 Applied data cleaning, data transformaing, Data loading for the Earthquake dataset, Built a PowerBI dashboard\nand predictive model.\nCERTIFICATIONS\n\u2022 Machine Learning (NVIDIA)\n\u2022 Fundamentals of deep learning (COURSERA)\n\n--- EXTRACTED LINKS ---\nhttps://github.com/kishorpatil87/Recruit-Agent\nhttps://github.com/kishorpatil87\nhttps://github.com/kishorpatil87/Networksecurity\nhttps://www.linkedin.com/in/kishor-patil-53982a25b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app\nmailto:kishorpatil7112@gmail.com\ntel:+918788156977",
+        "full_name": "KISHOR PATIL",
+        "email": "kishorpatil7112@gmail.com",
+        "phone": "+91 8788156977",
+        "github_url": "https://github.com/kishorpatil87",
+        "linkedin_url": "https://www.linkedin.com/in/kishor-patil-53982a25b",
+        "skills": [
+          "Languages: C++",
+          "Python",
+          "SQL",
+          "Frameworks & Libraries: Numpy",
+          "Pandas",
+          "Matplotlib",
+          "Scikit",
+          "learn",
+          "FastAPI",
+          "Langchain",
+          "Langgraph",
+          "Databases: MySQL",
+          "MongoDB",
+          "AI & ML: Machine Learning",
+          "MLOps",
+          "Deep Learning",
+          "Natural Language Processing",
+          "Generative AI",
+          "Agentic AI",
+          "Core Courses: Object Oriented Programming",
+          "Data Structures",
+          "Algorithms",
+          "Database Management System"
+        ],
+        "total_experience_years": 0.0,
+        "education": [
+          {
+            "degree": "ma",
+            "institution": "Pune",
+            "year": "20",
+            "gpa": "8.2"
+          },
+          {
+            "degree": "Ba",
+            "institution": "",
+            "year": "20",
+            "gpa": "8.2"
+          }
+        ],
+        "certifications": [
+          "NVIDIA",
+          "COURSERA)"
+        ],
+        "projects": [
+          {
+            "name": "RecruitAgent: AI-powered candidate screening and ranking system \u0087 GitHub",
+            "description": "Built RecruitAgent AI, a multi-agent pipeline for automated resume parsing, scoring, and candidate ranking. Leveraged LangGraph and Groq to extract insights, enrich profiles via GitHub/LinkedIn, and compute weighted evaluations. Developed a FastAPI-based backend for real-time processing and intelligent shortlisting",
+            "techstack": [
+              "FastAPI"
+            ]
+          },
+          {
+            "name": "\u0087 GitHub",
+            "description": "Designed and built an end-to-end data pipeline to ingest and preprocess website traffic and URL datasets for security analysis. Engineered a complete ML pipeline to verify websites as safe using ML models RF, DT, GBM, and LR. Implemented CI/CD pipeline using GitHub Actions, containerized the application with Docker,Deployed the solution on AWS EC2.",
+            "techstack": [
+              "Docker",
+              "CI/CD",
+              "AWS",
+              "EC2"
+            ]
+          },
+          {
+            "name": "Impact-Metrics: IIT Banaras",
+            "description": "Secured 5th Rank in the final round of the Impact-Metrics 2024 hackathon. Applied data cleaning, data transformaing, Data loading for the Earthquake dataset, Built a PowerBI dashboard and predictive model.",
+            "techstack": [
+              "PowerBI"
+            ]
+          }
+        ],
+        "work_history": []
+      },
+      "github": {
+        "username": "kishorpatil87",
+        "profile_url": "https://github.com/kishorpatil87",
+        "exists": true,
+        "public_repos": 21,
+        "followers": 0,
+        "total_commits_last_year": 0,
+        "contribution_streak_days": 0,
+        "top_languages": [
+          "Jupyter Notebook",
+          "Python",
+          "TypeScript",
+          "JavaScript"
+        ],
+        "stars_total": 0,
+        "jd_language_match": true,
+        "account_age_years": 2.5,
+        "bio": "CSE(AIML) Student at VIIT , Pune "
+      },
+      "linkedin": {
+        "profile_url": "https://www.linkedin.com/in/kishor-patil-53982a25b",
+        "exists": false,
+        "source": "none",
+        "headline": "",
+        "current_title": "",
+        "location": "",
+        "tenure_years": 0.0,
+        "connections": 0,
+        "summary": ""
+      },
+      "similarity_scores": {
+        "semantic_score": 0.3626,
+        "keyword_score": 1.0,
+        "composite_score": 0.6175
+      }
+    },
+    {
+      "candidate_id": "cand_0001_851e77",
+      "full_name": "UDIT PANJIYAR",
+      "email": "udit.30mi@gmail.com",
+      "total_score": 0.0,
+      "blocker_count": 0,
+      "dimension_scores": [],
+      "missing_requirements": [],
+      "red_flags": [
+        "Evaluation error: Server error '500 Internal Server Error' for url 'http://localhost:11434/api/chat'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/500"
+      ],
+      "confidence": "low",
+      "confidence_reason": "Evaluation failed: Server error '500 Internal Server Error' for url 'http://localhost:11434/api/chat'\nFor more informat",
+      "suggested_questions": [],
+      "role_level": "junior",
+      "error": "Server error '500 Internal Server Error' for url 'http://localhost:11434/api/chat'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/500",
+      "resume": {
+        "candidate_id": "cand_0001_851e77",
+        "raw_path": "C:\\Users\\Kishor\\AppData\\Local\\Temp\\recruitment_6g7x_6sh\\3283483384a745bfa5b0c4212119e272_UDIT_RESUME.pdf",
+        "raw_text": "UDIT PANJIYAR\n9508751654 # udit.30mi@gmail.com \u00ef LinkedIn \u00a7 Github\nLeetCode\nGFG\nEDUCATION\nVishwakarma Institute of Information Technology, Pune\n2021 - 2025\nBachelor of Engineering in Information Technology | 8.95 CGPA\nPune, Maharashtra\nSri chaitanya\n2018 - 2020\n12th in Mathematics, Physics, Chemistry | 86.4%\nVisakhapatnam, Andhra Pradesh\nBela Public School\n2017 - 2018\n10th in Mathematics, Science, English, Social Science, Hindi | 89%\nDarbhanga, Bihar\nEXPERIENCE\nQualys\nMar 2025 - Present\nSoftware Developer Intern\nPune, In-Office\n\u2022 Designed mock asset data using Protobuf definitions and published to Kafka topics to support testing of asset ingestion and\ntransformation services.\n\u2022 Developed JUnit test cases for the Protobuf transformer service, ensuring robust validation of proto-to-Java model conversions\nacross internal serialization/deserialization pipelines.\n\u2022 Built Grafana dashboards using Prometheus metrics to monitor Kafka-based asset processing services, including message\nprocessing time, throughput, and consumer lag.\n\u2022 Developed a dynamic API to automate bulk publishing of diverse asset to Kafka, accelerating integration testing workflows.\n\u2022 Analyzed and resolved security vulnerabilities and code quality issues identified by Black Duck and Coverity analysis.\nClarovate\nJan 2025 - Feb 2025\nBackend Developer Intern\nPune, In-Office\n\u2022 Developed user authentication features (admin setup, password reset, role management) using TS, NestJS, and MongoDB.\n\u2022 Implemented invitation-based user onboarding with email templates, automating user creation and migration to User Schema.\n\u2022 Built a reusable Email Service with NodeMailer and Handlebars for dynamic email notifications (invitations, OTPs).\n\u2022 Designed file upload service for CSV files and campaign management (CRUD operations) with robust error handling.\n\u2022 Built a CSV processing pipeline in NestJS for custom field mapping, bulk contact entry, and robust validation.\nPROJECTS\nStudyBridge: An Online Study Platform| MongoDb, Express, React, Nodejs, Redux Toolkit\njuly 2024\nlink\n* Streamlined the course purchasing process, improving user experience and driving higher enrollments.\n* Developed a responsive front-end with React and Tailwind CSS, improving user engagement.\n* Implemented Redux for centralized state management, improving scalability and reducing bugs.\n* Built RESTful APIs using Express and Node.js, efficiently handling multiple concurrent users.\n* Integrated Razorpay for payments Created real-time data visualizations with Chart.js for data-driven decision-making.\n* Implemented secure user authentication with JWT, OTP verification, password hashing with bcrypt ensuring platform security.\nNetflix - GPT | React, Redux Toolkit, Tailwind CSS\nFeb 2024\nlink\n* Created a Netflix-like App using React and Redux , fetching movie data from TMDB API .\n* Integrated YouTube trailer playback on movie card click for an engaging user experience.\n* Implemented user authentication, sign-up, and profile management using Firebase .\n* Created a GPT-powered search page for genre-specific movie searches, leveraging OpenAI API.\n* Improved app responsiveness, ensuring a seamless user experience on various devices.\nSKILLS\nLanguages: C, C++ (Advanced), Java, JavaScript, TypeScript\nBackend: Node.js, Express.js, Nest.js\nFrontend: React, TailwindCSS, HTML, CSS, Redux\nDatabases: MySQL, MongoDB\nDeveloper Tools: Postman, VS Code, GitHub, Bitbucket, Jira, DBeaver\nCoursework : Data Structures & Algorithms, Object-Oriented Programming, Operating Systems, Database Management\nACHIEVEMENTS\n* 450+ problems solved on LeetCode/GeeksforGeeks (Data Structures & Algorithms) with top 35% contest ranking.\n* Developed a financial advisory web app at a Blackrock Hackathon, featuring a scholarship finder based on income and category,\nloan options with different interest rates, and an EMI calculator.\n\n--- EXTRACTED LINKS ---\nhttps://www.linkedin.com/in/uditpanjiyar\nhttps://netflix-gpt-khaki.vercel.app\nhttps://www.geeksforgeeks.org/user/udit30mi/\nhttps://github.com/UditPanjiyar\nhttps://leetcode.com/u/UditPanjiyar/\nmailto:udit.30mi@gmail.com\nhttps://study-notion-frontend-theta-six.vercel.app/",
+        "full_name": "UDIT PANJIYAR",
+        "email": "udit.30mi@gmail.com",
+        "phone": "9508751654",
+        "github_url": "https://github.com/UditPanjiyar",
+        "linkedin_url": "https://www.linkedin.com/in/uditpanjiyar",
+        "skills": [
+          "Languages: C",
+          "C++ (Advanced",
+          "Java",
+          "JavaScript",
+          "TypeScript",
+          "Backend: Node.js",
+          "Express.js",
+          "Nest.js",
+          "Frontend: React",
+          "TailwindCSS",
+          "HTML",
+          "CSS",
+          "Redux",
+          "Databases: MySQL",
+          "MongoDB",
+          "Developer Tools: Postman",
+          "VS Code",
+          "GitHub",
+          "Bitbucket",
+          "Jira",
+          "DBeaver",
+          "Coursework : Data Structures & Algorithms",
+          "Object",
+          "Oriented Programming",
+          "Operating Systems",
+          "Database Management",
+          "ACHIEVEMENTS",
+          "featuring a scholarship finder based on income and category",
+          "loan options with different interest rates",
+          "and an EMI calculator.",
+          "EXTRACTED LINKS",
+          "https://www.linkedin.com/in/uditpanjiyar",
+          "https://netflix",
+          "gpt",
+          "khaki.vercel.app",
+          "https://www.geeksforgeeks.org/user/udit30mi/",
+          "https://github.com/UditPanjiyar",
+          "https://leetcode.com/u/UditPanjiyar/",
+          "mailto:udit.30mi@gmail.com",
+          "https://study",
+          "notion",
+          "frontend",
+          "theta",
+          "six.vercel.app/"
+        ],
+        "total_experience_years": 1.2,
+        "education": [
+          {
+            "degree": "ma",
+            "institution": "Pune",
+            "year": "20"
+          },
+          {
+            "degree": "Ba",
+            "institution": "Pune",
+            "year": "20",
+            "percentage": "86.4"
+          },
+          {
+            "degree": "Ma",
+            "institution": "Sri chaitanya",
+            "year": "20",
+            "percentage": "86.4"
+          },
+          {
+            "degree": "Ma",
+            "institution": "Physics",
+            "year": "20",
+            "percentage": "86.4"
+          },
+          {
+            "degree": "Be",
+            "institution": "",
+            "year": "20",
+            "percentage": "89.0"
+          },
+          {
+            "degree": "Ma",
+            "institution": "Science",
+            "year": "20",
+            "percentage": "89.0"
+          }
+        ],
+        "certifications": [],
+        "projects": [
+          {
+            "name": "",
+            "description": "StudyBridge: An Online Study Platform| MongoDb, Express, React, Nodejs, Redux Toolkit july 2024 Streamlined the course purchasing process, improving user experience and driving higher enrollments. Developed a responsive front-end with React and Tailwind CSS, improving user engagement. Implemented Redux for centralized state management, improving scalability and reducing bugs. Built RESTful APIs using Express and Node.js, efficiently handling multiple concurrent users. Integrated Razorpay for payments Created real-time data visualizations with Chart.js for data-driven decision-making. Implemented secure user authentication with JWT, OTP verification, password hashing with bcrypt ensuring platform security.",
+            "techstack": [
+              "Tailwind",
+              "Node.js",
+              "Nodejs",
+              "MongoDb",
+              "React",
+              "Express"
+            ]
+          },
+          {
+            "name": "Feb 2024",
+            "description": "Created a Netflix-like App using React and Redux , fetching movie data from TMDB API . Integrated YouTube trailer playback on movie card click for an engaging user experience. Implemented user authentication, sign-up, and profile management using Firebase . Created a GPT-powered search page for genre-specific movie searches, leveraging OpenAI API. Improved app responsiveness, ensuring a seamless user experience on various devices.",
+            "techstack": [
+              "React",
+              "GPT"
+            ]
+          }
+        ],
+        "work_history": []
+      },
+      "github": {
+        "username": "UditPanjiyar",
+        "profile_url": "https://github.com/UditPanjiyar",
+        "exists": true,
+        "public_repos": 21,
+        "followers": 0,
+        "total_commits_last_year": 0,
+        "contribution_streak_days": 0,
+        "top_languages": [
+          "JavaScript",
+          "Java",
+          "CSS",
+          "C++",
+          "HTML"
+        ],
+        "stars_total": 2,
+        "jd_language_match": false,
+        "account_age_years": 3.0,
+        "bio": ""
+      },
+      "linkedin": {
+        "profile_url": "https://www.linkedin.com/in/uditpanjiyar",
+        "exists": false,
+        "source": "none",
+        "headline": "",
+        "current_title": "",
+        "location": "",
+        "tenure_years": 0.0,
+        "connections": 0,
+        "summary": ""
+      },
+      "similarity_scores": {
+        "semantic_score": 0.2669,
+        "keyword_score": 0.0,
+        "composite_score": 0.1601
+      }
+    },
+    {
+      "candidate_id": "cand_0002_ec4548",
+      "full_name": "VISHAL JAGDALE",
+      "email": "vishaljagdale6168@gmail.com",
+      "total_score": 0.0,
+      "blocker_count": 0,
+      "dimension_scores": [],
+      "missing_requirements": [],
+      "red_flags": [
+        "Evaluation error: Server error '500 Internal Server Error' for url 'http://localhost:11434/api/chat'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/500"
+      ],
+      "confidence": "low",
+      "confidence_reason": "Evaluation failed: Server error '500 Internal Server Error' for url 'http://localhost:11434/api/chat'\nFor more informat",
+      "suggested_questions": [],
+      "role_level": "junior",
+      "error": "Server error '500 Internal Server Error' for url 'http://localhost:11434/api/chat'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/500",
+      "resume": {
+        "candidate_id": "cand_0002_ec4548",
+        "raw_path": "C:\\Users\\Kishor\\AppData\\Local\\Temp\\recruitment_6g7x_6sh\\aefc4bfc3dce47a69ae1647c3ef69248_VishalJagdale_Resume.pdf",
+        "raw_text": "VISHAL JAGDALE\n\u0083 +91 7378896168 | # vishaljagdale6168@gmail.com | \u00ef | \u00a7 | LeetCode\nSUMMARY\nComputer Science graduate skilled in MERN stack and Java development with experience building full-stack appli-\ncations and solving 350+ DSA problems, showcasing strong problem-solving and software engineering abilities.\nEDUCATION\nVishwakarma College of Arts, Commerce and Science\nPune, MH\nMaster of Science in Computer Science \u2014 Currently pursuing 1st semester\n2025\u20132027\nVishwakarma College of Arts, Commerce and Science\nPune, MH\nBachelor of Computer Science \u2014 CGPA: 7.75\n2022\u20132025\nTECHNICAL SKILLS\nLanguages: Java, JavaScript, Typescript\nFrameworks: React.js, Node.js, Express.js, Tailwind CSS\nDatabases: MongoDB, MySQL\nDeveloper Tools:AWS, Git, GitHub, Postman, Redux, Docker, Cloudinary, Vercel\nFundamentals: Object-Oriented Programming, Data Structures, Algorithms, Operating Systems, Computer Net-\nworking, Blockchain Technology\nEXPERIENCE\n5Tech G \u2014 Software Developer Intern\nJune 2025 \u2013 Present\n\u2022 Built multi-customer and invoicing modules for a manufacturing industry project; also handled direct\nclient communication.\n\u2022 Designed the MySQL database and developed backend APIs using Node.js for the RA Masala project.\n\u2022 Leading the development of a full-stack MLA project using the MERN stack.\n\u2022 Managing and mentoring a team of 3 interns, overseeing task assignments and development timelines.\nPROJECTS\nMLA Grievance \u2014 MERN Stack, DigitalOcean, MySQL, Vercel\n\u00a7\nJul 2025 \u2013 Aug 2025\n\u2022 Built a portal to digitize grievance records for MLA offices, replacing manual logs.\n\u2022 Designed dashboards with visual analytics for issue tracking and resolution status.\n\u2022 Added event scheduling and tracking for MLA activities with role-based access.\nHealthNodes \u2014 MERN Stack, FastAPI, Python, NLP, Deep Learning\n\u00a7\nJan 2025 \u2013 Feb 2025\n\u2022 Created an AI-powered disease prediction system using symptoms and skin images.\n\u2022 Integrated a chatbot for real-time medical queries and health advice.\n\u2022 Developed a medication reminder system with real-time notification alerts.\nLazyLearner \u2014 MERN Stack, Stripe, Cloudinary\n\u00a7\nNov 2024 \u2013 Jan 2025\n\u2022 Developed a role-based LMS platform for students and instructors.\n\u2022 Integrated Stripe API for seamless and secure payment handling.\n\u2022 Enabled dynamic course creation and used Cloudinary for media optimization.\nACHIEVEMENTS\n\u2022 Solved 350+ DSA problems on platforms like LeetCode and GFG.\n\u2022 Led a team in a national hackathon, securing a top-50 rank out of 400+ teams.\n\u2022 Earned a distinguished 100-day accomplishment badge on LeetCode.\n\n--- EXTRACTED LINKS ---\nhttps://github.com/vishaldjagdale/Health\nhttps://leetcode.com/u/vishaljagdale/\ntel:+917378896168\nhttps://www.linkedin.com/in/vishaldjagdale/\nhttps://github.com/vishaldjagdale\nhttps://github.com/5TechG-IT/Ticket_raiseing\nmailto:vishaljagdale6168@gmail.com\nhttps://github.com/vishaldjagdale/LazyLearner",
+        "full_name": "VISHAL JAGDALE",
+        "email": "vishaljagdale6168@gmail.com",
+        "phone": "+91 7378896168",
+        "github_url": "https://github.com/vishaldjagdale",
+        "linkedin_url": "https://www.linkedin.com/in/vishaldjagdale",
+        "skills": [
+          "Languages: Java",
+          "JavaScript",
+          "Typescript",
+          "Frameworks: React.js",
+          "Node.js",
+          "Express.js",
+          "Tailwind CSS",
+          "Databases: MongoDB",
+          "MySQL",
+          "Developer Tools:AWS",
+          "Git",
+          "GitHub",
+          "Postman",
+          "Redux",
+          "Docker",
+          "Cloudinary",
+          "Vercel",
+          "Fundamentals: Object",
+          "Oriented Programming",
+          "Data Structures",
+          "Algorithms",
+          "Operating Systems",
+          "Computer Net",
+          "working",
+          "Blockchain Technology"
+        ],
+        "total_experience_years": 1.2,
+        "education": [
+          {
+            "degree": "ma",
+            "institution": "Commerce and Science",
+            "year": "20"
+          },
+          {
+            "degree": "Ma",
+            "institution": "",
+            "year": "20",
+            "gpa": "7.75"
+          },
+          {
+            "degree": "ma",
+            "institution": "Commerce and Science",
+            "year": "20",
+            "gpa": "7.75"
+          },
+          {
+            "degree": "Ba",
+            "institution": "",
+            "year": "20",
+            "gpa": "7.75"
+          }
+        ],
+        "certifications": [],
+        "projects": [
+          {
+            "name": "Jul 2025 \u2013 Aug 2025",
+            "description": "Built a portal to digitize grievance records for MLA offices, replacing manual logs. Designed dashboards with visual analytics for issue tracking and resolution status. Added event scheduling and tracking for MLA activities with role-based access.",
+            "techstack": []
+          },
+          {
+            "name": "Jan 2025 \u2013 Feb 2025",
+            "description": "Created an AI-powered disease prediction system using symptoms and skin images.",
+            "techstack": []
+          },
+          {
+            "name": "Solved 350+ DSA problems on platforms like LeetCode and GFG.",
+            "description": "Led a team in a national hackathon, securing a top-50 rank out of 400+ teams.",
+            "techstack": []
+          },
+          {
+            "name": "EXTRACTED LINKS ---",
+            "description": "https://github.com/vishaldjagdale/Health https://leetcode.com/u/vishaljagdale/ tel:+917378896168 https://www.linkedin.com/in/vishaldjagdale/ https://github.com/vishaldjagdale https://github.com/5TechG-IT/Ticket_raiseing mailto:vishaljagdale6168@gmail.com https://github.com/vishaldjagdale/LazyLearner",
+            "techstack": []
+          }
+        ],
+        "work_history": []
+      },
+      "github": {
+        "username": "vishaldjagdale",
+        "profile_url": "https://github.com/vishaldjagdale",
+        "exists": true,
+        "public_repos": 32,
+        "followers": 3,
+        "total_commits_last_year": 0,
+        "contribution_streak_days": 0,
+        "top_languages": [
+          "JavaScript",
+          "Java",
+          "TypeScript",
+          "HCL",
+          "EJS"
+        ],
+        "stars_total": 3,
+        "jd_language_match": false,
+        "account_age_years": 2.6,
+        "bio": "\ud83c\udf93 Computer Science Undergraduate | \ud83d\udcbb Full-Stack Developer | \ud83c\udf1f Open Source Enthusiast\r\n\ud83d\udd0d Exploring AI, web development, and scalable solutions.\r\n\ud83d\udcc8 Building "
+      },
+      "linkedin": {
+        "profile_url": "https://www.linkedin.com/in/vishaldjagdale",
+        "exists": false,
+        "source": "none",
+        "headline": "",
+        "current_title": "",
+        "location": "",
+        "tenure_years": 0.0,
+        "connections": 0,
+        "summary": ""
+      },
+      "similarity_scores": {
+        "semantic_score": 0.3155,
+        "keyword_score": 0.5,
+        "composite_score": 0.3893
+      }
+    }
+  ],
+  "weights_used": {
+    "jd_match": 0.3333333333333333,
+    "education": 0.07407407407407407,
+    "technical_skills": 0.1111111111111111,
+    "project_quality": 0.07407407407407407,
+    "experience": 0.1111111111111111,
+    "github": 0.18518518518518517,
+    "linkedin": 0.1111111111111111
+  },
+  "generated_at": "2026-04-14T12:42:19.865227",
+  "shortlisted": [
+    {
+      "rank": 1,
+      "candidate_id": "cand_0000_88df1a",
+      "full_name": "KISHOR PATIL",
+      "email": "kishorpatil7112@gmail.com",
+      "total_score": 0.0,
+      "blocker_count": 0,
+      "delta_to_next": 0.0,
+      "confidence": "low",
+      "confidence_reason": "Evaluation failed: Server error '500 Internal Server Error' for url 'http://localhost:11434/api/chat'\nFor more informat",
+      "top_skills": [
+        "Languages: C++",
+        "Python",
+        "SQL",
+        "Frameworks & Libraries: Numpy",
+        "Pandas"
+      ],
+      "red_flag_count": 1,
+      "red_flags": [
+        "Evaluation error: Server error '500 Internal Server Error' for url 'http://localhost:11434/api/chat'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/500"
+      ],
+      "missing_requirements": [],
+      "suggested_questions": [],
+      "dimension_scores": [],
+      "error": "Server error '500 Internal Server Error' for url 'http://localhost:11434/api/chat'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/500",
+      "justification": "Score: 0.0/100 | Confidence: low | Blockers: 0"
+    },
+    {
+      "rank": 2,
+      "candidate_id": "cand_0001_851e77",
+      "full_name": "UDIT PANJIYAR",
+      "email": "udit.30mi@gmail.com",
+      "total_score": 0.0,
+      "blocker_count": 0,
+      "delta_to_next": 0.0,
+      "confidence": "low",
+      "confidence_reason": "Evaluation failed: Server error '500 Internal Server Error' for url 'http://localhost:11434/api/chat'\nFor more informat",
+      "top_skills": [
+        "Languages: C",
+        "C++ (Advanced",
+        "Java",
+        "JavaScript",
+        "TypeScript"
+      ],
+      "red_flag_count": 1,
+      "red_flags": [
+        "Evaluation error: Server error '500 Internal Server Error' for url 'http://localhost:11434/api/chat'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/500"
+      ],
+      "missing_requirements": [],
+      "suggested_questions": [],
+      "dimension_scores": [],
+      "error": "Server error '500 Internal Server Error' for url 'http://localhost:11434/api/chat'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/500",
+      "justification": "Score: 0.0/100 | Confidence: low | Blockers: 0"
+    }
+  ]
+}

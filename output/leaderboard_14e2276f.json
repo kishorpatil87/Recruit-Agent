@@ -1,0 +1,1095 @@
+{
+  "run_id": "14e2276f-4b55-4199-965d-9ccbd8acd43d",
+  "jd_title": "Python Engineer",
+  "jd_company": "",
+  "role_level": "mid",
+  "total_candidates": 4,
+  "entries": [
+    {
+      "rank": 1,
+      "candidate_id": "cand_0001_93e6a4",
+      "full_name": "KISHOR PATIL",
+      "email": "kishorpatil7112@gmail.com",
+      "total_score": 56.0,
+      "blocker_count": 0,
+      "delta_to_next": 9.75,
+      "confidence": "high",
+      "confidence_reason": "Strong technical skills and relevant projects",
+      "top_skills": [
+        "Languages: C++",
+        "Python",
+        "SQL",
+        "Data Engineering: ETL",
+        "Data Cleaning"
+      ],
+      "red_flag_count": 0,
+      "red_flags": [],
+      "missing_requirements": [],
+      "suggested_questions": [
+        "Can you elaborate on your experience with ML and NLP?",
+        "How do you approach data engineering and data visualization?",
+        "Can you walk me through your project on end-to-end data pipeline?"
+      ],
+      "dimension_scores": [
+        {
+          "dimension": "JD Match",
+          "raw_score": 69,
+          "weighted_score": 20.0,
+          "band": "strong",
+          "rationale": "High keyword overlap and moderate TF-IDF similarity"
+        },
+        {
+          "dimension": "Education",
+          "raw_score": 18,
+          "weighted_score": 9.0,
+          "band": "strong",
+          "rationale": "Relevant master's degree with high GPA"
+        },
+        {
+          "dimension": "Technical Skills",
+          "raw_score": 90,
+          "weighted_score": 13.0,
+          "band": "strong",
+          "rationale": "Broad range of relevant technical skills, including python, data structures, and ML"
+        },
+        {
+          "dimension": "Project Quality",
+          "raw_score": 80,
+          "weighted_score": 8.0,
+          "band": "strong",
+          "rationale": "Relevant projects with modern tech stack and real-world impact"
+        },
+        {
+          "dimension": "Experience",
+          "raw_score": 20,
+          "weighted_score": 3.0,
+          "band": "weak",
+          "rationale": "Limited experience, but some relevant work history"
+        },
+        {
+          "dimension": "GitHub Activity",
+          "raw_score": 20,
+          "weighted_score": 3.0,
+          "band": "weak",
+          "rationale": "Limited GitHub activity, but some relevant repositories"
+        },
+        {
+          "dimension": "LinkedIn Presence",
+          "raw_score": 0,
+          "weighted_score": 0.0,
+          "band": "absent",
+          "rationale": "No LinkedIn data available"
+        }
+      ],
+      "error": "",
+      "justification": "Score: 56.0/100 | Confidence: high | Blockers: 0"
+    },
+    {
+      "rank": 2,
+      "candidate_id": "cand_0002_978bd2",
+      "full_name": "UDIT PANJIYAR",
+      "email": "udit.30mi@gmail.com",
+      "total_score": 46.25,
+      "blocker_count": 1,
+      "delta_to_next": 46.25,
+      "confidence": "medium",
+      "confidence_reason": "Limited information about work history and lack of python experience",
+      "top_skills": [
+        "Languages: C",
+        "C++ (Advanced",
+        "Java",
+        "JavaScript",
+        "TypeScript"
+      ],
+      "red_flag_count": 2,
+      "red_flags": [
+        "Limited python experience",
+        "No recent GitHub activity"
+      ],
+      "missing_requirements": [
+        {
+          "skill": "python",
+          "severity": "blocker"
+        }
+      ],
+      "suggested_questions": [
+        "Can you explain your experience with python?",
+        "How do you think your skills align with the ML domain?",
+        "Can you walk me through your project development process?"
+      ],
+      "dimension_scores": [
+        {
+          "dimension": "JD Match",
+          "raw_score": 27,
+          "weighted_score": 6.75,
+          "band": "weak",
+          "rationale": "Low keyword overlap and TF-IDF similarity"
+        },
+        {
+          "dimension": "Education",
+          "raw_score": 80,
+          "weighted_score": 8.0,
+          "band": "strong",
+          "rationale": "Relevant degrees with high percentages"
+        },
+        {
+          "dimension": "Technical Skills",
+          "raw_score": 70,
+          "weighted_score": 10.5,
+          "band": "strong",
+          "rationale": "Variety of technical skills, but limited depth in python and data structures"
+        },
+        {
+          "dimension": "Project Quality",
+          "raw_score": 60,
+          "weighted_score": 6.0,
+          "band": "adequate",
+          "rationale": "Some projects align with JD requirements, but lack of complexity and real-world impact"
+        },
+        {
+          "dimension": "Experience",
+          "raw_score": 120,
+          "weighted_score": 15.0,
+          "band": "strong",
+          "rationale": "More than required experience, but limited relevance to ML domain"
+        },
+        {
+          "dimension": "GitHub Activity",
+          "raw_score": 10,
+          "weighted_score": 0.0,
+          "band": "absent",
+          "rationale": "No recent commits, no python projects, and no contribution streak"
+        },
+        {
+          "dimension": "LinkedIn Presence",
+          "raw_score": 0,
+          "weighted_score": 0.0,
+          "band": "absent",
+          "rationale": "No LinkedIn data available"
+        }
+      ],
+      "error": "",
+      "justification": "Score: 46.25/100 | Confidence: medium | Blockers: 1"
+    },
+    {
+      "rank": 3,
+      "candidate_id": "cand_0000_2260d1",
+      "full_name": "DINESH SAHARE",
+      "email": "dsahare024@gmail.com",
+      "total_score": 0.0,
+      "blocker_count": 0,
+      "delta_to_next": 0.0,
+      "confidence": "low",
+      "confidence_reason": "Evaluation failed: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in o",
+      "top_skills": [
+        "steering",
+        "and suspension",
+        "hubs",
+        "and wheel assemblies to improve",
+        "handling"
+      ],
+      "red_flag_count": 1,
+      "red_flags": [
+        "Evaluation error: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01jr7a2w63e8z9ch8p8h2pt2dd` service tier `on_demand` on tokens per minute (TPM): Li"
+      ],
+      "missing_requirements": [],
+      "suggested_questions": [],
+      "dimension_scores": [],
+      "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01jr7a2w63e8z9ch8p8h2pt2dd` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Used 4257, Requested 9170. Please try again in 7.135s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+    },
+    {
+      "rank": 4,
+      "candidate_id": "cand_0003_0a4a90",
+      "full_name": "VISHAL JAGDALE",
+      "email": "vishaljagdale6168@gmail.com",
+      "total_score": 0.0,
+      "blocker_count": 0,
+      "delta_to_next": 0.0,
+      "confidence": "low",
+      "confidence_reason": "Evaluation failed: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in o",
+      "top_skills": [
+        "Languages: Java",
+        "JavaScript",
+        "Typescript",
+        "Frameworks: React.js",
+        "Node.js"
+      ],
+      "red_flag_count": 1,
+      "red_flags": [
+        "Evaluation error: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01jr7a2w63e8z9ch8p8h2pt2dd` service tier `on_demand` on tokens per minute (TPM): Li"
+      ],
+      "missing_requirements": [],
+      "suggested_questions": [],
+      "dimension_scores": [],
+      "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01jr7a2w63e8z9ch8p8h2pt2dd` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Used 4257, Requested 9231. Please try again in 7.439999999s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}"
+    }
+  ],
+  "scorecards": [
+    {
+      "dimension_scores": [
+        {
+          "dimension": "JD Match",
+          "raw_score": 69,
+          "weighted_score": 20.0,
+          "band": "strong",
+          "rationale": "High keyword overlap and moderate TF-IDF similarity"
+        },
+        {
+          "dimension": "Education",
+          "raw_score": 18,
+          "weighted_score": 9.0,
+          "band": "strong",
+          "rationale": "Relevant master's degree with high GPA"
+        },
+        {
+          "dimension": "Technical Skills",
+          "raw_score": 90,
+          "weighted_score": 13.0,
+          "band": "strong",
+          "rationale": "Broad range of relevant technical skills, including python, data structures, and ML"
+        },
+        {
+          "dimension": "Project Quality",
+          "raw_score": 80,
+          "weighted_score": 8.0,
+          "band": "strong",
+          "rationale": "Relevant projects with modern tech stack and real-world impact"
+        },
+        {
+          "dimension": "Experience",
+          "raw_score": 20,
+          "weighted_score": 3.0,
+          "band": "weak",
+          "rationale": "Limited experience, but some relevant work history"
+        },
+        {
+          "dimension": "GitHub Activity",
+          "raw_score": 20,
+          "weighted_score": 3.0,
+          "band": "weak",
+          "rationale": "Limited GitHub activity, but some relevant repositories"
+        },
+        {
+          "dimension": "LinkedIn Presence",
+          "raw_score": 0,
+          "weighted_score": 0.0,
+          "band": "absent",
+          "rationale": "No LinkedIn data available"
+        }
+      ],
+      "total_score": 56.0,
+      "blocker_count": 0,
+      "missing_requirements": [],
+      "red_flags": [],
+      "confidence": "high",
+      "confidence_reason": "Strong technical skills and relevant projects",
+      "suggested_questions": [
+        "Can you elaborate on your experience with ML and NLP?",
+        "How do you approach data engineering and data visualization?",
+        "Can you walk me through your project on end-to-end data pipeline?"
+      ],
+      "candidate_id": "cand_0001_93e6a4",
+      "full_name": "KISHOR PATIL",
+      "email": "kishorpatil7112@gmail.com",
+      "role_level": "junior",
+      "error": "",
+      "resume": {
+        "candidate_id": "cand_0001_93e6a4",
+        "raw_path": "C:\\Users\\Kishor\\AppData\\Local\\Temp\\recruitment_7qn_dpqv\\ffb5e4fc4c7f4b229442e83c159edeba_kishor_patil_ress_26.pdf",
+        "raw_text": "KISHOR PATIL\n+91 8788156977 | kishorpatil7112@gmail.com | LinkedIn | GitHub\nSUMMARY\nComputer Science student focused on building scalable data-driven systems using Data Engineering, Machine Learning,\nand Cloud technologies. Experienced in designing end-to-end pipelines, data processing workflows, and AI-powered\napplications. Eager to apply my skills to real-world problems and grow as a data-focused engineer.\nEDUCATION\nVishwakarma Institute Of Information Technology,\nPune, MH\nBachelor of Technology in Computer Science Engineering (AIML); CGPA: 8.2\n2022-2026\nTECHNICAL SKILLS\nLanguages: C++, Python, SQL\nData Engineering: ETL, Data Cleaning, Data Transformation, Data Warehousing\nDatabases: MySQL , MongoDB\nMLOps: MLflow, DagsHub, Docker, CI/CD (Github Actions), AWS\nData Visualization: Matplotlib, Power BI\nAI & ML: Machine Learning , Deep Learning, Natural Language Processing, Generative AI, Agentic AI\nCourses: Data Structures, Algorithms, DBMS, OOP, Operating Systems\nEXPERIENCE\nIntern | Two Registers\n(July 2025 - oct 2025)\n\u2022 Developed a web-based online examination system supporting question paper creation and online assessments.\n\u2022 Implemented a RAG-based evaluation system using FAISS and LLaMA 3 to generate MCQs, subjective ques-\ntions/answers, and enable auto-evaluation using gemini with manual grading support.\nPROJECTS\nHealthNodes: AI-Powered Healthcare Assistant (Nov 2024)\n\u2022 Performed data cleaning, feature engineering, and text normalization to prepare high-quality inputs for NLP-based\nclassification models.\n\u2022 Fine-Tuned BioBERT Transformer model for the prediction of human diseases based on text symptom Description.\n\u2022 Trained deep learning sequential model to detect the skin disease based on skin images.\nNetworksecurity (Jan 2025)\n\u2022 Designed and built an end-to-end data pipeline to ingest and preprocess website traffic and URL datasets for\nsecurity analysis.\n\u2022 Engineered a complete ML pipeline to verify websites as safe using ML models RF, DT, GBM, LR,and AdaBoost.\n\u2022 Deployed the solution on AWS EC2, with model artifacts stored in S3 bucket .\nCERTIFICATIONS\n\u2022 Data Engineering (NVIDIA)\n\u2022 Fundamentals of deep learning (COURSERA)\nACHIEVEMENTS\nImpact-Metrics: IIT Banaras (Dec 2024)\n\u2022 Secured 5th Rank in the final round of the Impact-Metrics 2024 hackathon.\n\u2022 Applied data cleaning, data transformaing, Data loading for the Earthquake dataset, Built a PowerBI dashboard.\n\n--- EXTRACTED LINKS ---\nhttps://github.com/kishorpatil87\nhttps://www.linkedin.com/in/kishor-patil-53982a25b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app\nmailto:kishorpatil7112@gmail.com\ntel:+918788156977",
+        "full_name": "KISHOR PATIL",
+        "email": "kishorpatil7112@gmail.com",
+        "phone": "+91 8788156977",
+        "github_url": "https://github.com/kishorpatil87",
+        "linkedin_url": "https://www.linkedin.com/in/kishor-patil-53982a25b",
+        "skills": [
+          "Languages: C++",
+          "Python",
+          "SQL",
+          "Data Engineering: ETL",
+          "Data Cleaning",
+          "Data Transformation",
+          "Data Warehousing",
+          "Databases: MySQL",
+          "MongoDB",
+          "MLOps: MLflow",
+          "DagsHub",
+          "Docker",
+          "CI/CD (Github Actions",
+          "AWS",
+          "Data Visualization: Matplotlib",
+          "Power BI",
+          "AI & ML: Machine Learning",
+          "Deep Learning",
+          "Natural Language Processing",
+          "Generative AI",
+          "Agentic AI",
+          "Courses: Data Structures",
+          "Algorithms",
+          "DBMS",
+          "OOP",
+          "Operating Systems"
+        ],
+        "total_experience_years": 0.2,
+        "education": [
+          {
+            "degree": "ma",
+            "institution": "Pune",
+            "year": "20",
+            "gpa": "8.2"
+          },
+          {
+            "degree": "Ba",
+            "institution": "",
+            "year": "20",
+            "gpa": "8.2"
+          }
+        ],
+        "certifications": [
+          "NVIDIA",
+          "COURSERA)"
+        ],
+        "projects": [
+          {
+            "name": "HealthNodes: AI-Powered Healthcare Assistant (Nov 2024)",
+            "description": "Performed data cleaning, feature engineering, and text normalization to prepare high-quality inputs for NLP-based classification models. Fine-Tuned BioBERT Transformer model for the prediction of human diseases based on text symptom Description. Trained deep learning sequential model to detect the skin disease based on skin images.",
+            "techstack": [
+              "NLP",
+              "Transformer"
+            ]
+          },
+          {
+            "name": "Networksecurity (Jan 2025)",
+            "description": "Designed and built an end-to-end data pipeline to ingest and preprocess website traffic and URL datasets for security analysis. Engineered a complete ML pipeline to verify websites as safe using ML models RF, DT, GBM, LR,and AdaBoost. Deployed the solution on AWS EC2, with model artifacts stored in S3 bucket .",
+            "techstack": [
+              "EC2",
+              "AWS",
+              "S3"
+            ]
+          }
+        ],
+        "work_history": []
+      },
+      "github": {
+        "username": "kishorpatil87",
+        "profile_url": "https://github.com/kishorpatil87",
+        "exists": true,
+        "public_repos": 20,
+        "followers": 0,
+        "total_commits_last_year": 0,
+        "contribution_streak_days": 0,
+        "top_languages": [
+          "Jupyter Notebook",
+          "Python",
+          "TypeScript",
+          "JavaScript"
+        ],
+        "stars_total": 0,
+        "jd_language_match": true,
+        "account_age_years": 2.5,
+        "bio": "CSE(AIML) Student at VIIT , Pune "
+      },
+      "linkedin": {
+        "profile_url": "https://www.linkedin.com/in/kishor-patil-53982a25b",
+        "exists": false,
+        "source": "none",
+        "headline": "",
+        "current_title": "",
+        "location": "",
+        "tenure_years": 0.0,
+        "connections": 0,
+        "summary": ""
+      },
+      "similarity_scores": {
+        "semantic_score": 0.4845,
+        "keyword_score": 1.0,
+        "composite_score": 0.6907
+      }
+    },
+    {
+      "dimension_scores": [
+        {
+          "dimension": "JD Match",
+          "raw_score": 27,
+          "weighted_score": 6.75,
+          "band": "weak",
+          "rationale": "Low keyword overlap and TF-IDF similarity"
+        },
+        {
+          "dimension": "Education",
+          "raw_score": 80,
+          "weighted_score": 8.0,
+          "band": "strong",
+          "rationale": "Relevant degrees with high percentages"
+        },
+        {
+          "dimension": "Technical Skills",
+          "raw_score": 70,
+          "weighted_score": 10.5,
+          "band": "strong",
+          "rationale": "Variety of technical skills, but limited depth in python and data structures"
+        },
+        {
+          "dimension": "Project Quality",
+          "raw_score": 60,
+          "weighted_score": 6.0,
+          "band": "adequate",
+          "rationale": "Some projects align with JD requirements, but lack of complexity and real-world impact"
+        },
+        {
+          "dimension": "Experience",
+          "raw_score": 120,
+          "weighted_score": 15.0,
+          "band": "strong",
+          "rationale": "More than required experience, but limited relevance to ML domain"
+        },
+        {
+          "dimension": "GitHub Activity",
+          "raw_score": 10,
+          "weighted_score": 0.0,
+          "band": "absent",
+          "rationale": "No recent commits, no python projects, and no contribution streak"
+        },
+        {
+          "dimension": "LinkedIn Presence",
+          "raw_score": 0,
+          "weighted_score": 0.0,
+          "band": "absent",
+          "rationale": "No LinkedIn data available"
+        }
+      ],
+      "total_score": 46.25,
+      "blocker_count": 1,
+      "missing_requirements": [
+        {
+          "skill": "python",
+          "severity": "blocker"
+        }
+      ],
+      "red_flags": [
+        "Limited python experience",
+        "No recent GitHub activity"
+      ],
+      "confidence": "medium",
+      "confidence_reason": "Limited information about work history and lack of python experience",
+      "suggested_questions": [
+        "Can you explain your experience with python?",
+        "How do you think your skills align with the ML domain?",
+        "Can you walk me through your project development process?"
+      ],
+      "candidate_id": "cand_0002_978bd2",
+      "full_name": "UDIT PANJIYAR",
+      "email": "udit.30mi@gmail.com",
+      "role_level": "junior",
+      "error": "",
+      "resume": {
+        "candidate_id": "cand_0002_978bd2",
+        "raw_path": "C:\\Users\\Kishor\\AppData\\Local\\Temp\\recruitment_7qn_dpqv\\9ba067863e2e48c8ae7d93729fcaa90e_UDIT_RESUME.pdf",
+        "raw_text": "UDIT PANJIYAR\n9508751654 # udit.30mi@gmail.com \u00ef LinkedIn \u00a7 Github\nLeetCode\nGFG\nEDUCATION\nVishwakarma Institute of Information Technology, Pune\n2021 - 2025\nBachelor of Engineering in Information Technology | 8.95 CGPA\nPune, Maharashtra\nSri chaitanya\n2018 - 2020\n12th in Mathematics, Physics, Chemistry | 86.4%\nVisakhapatnam, Andhra Pradesh\nBela Public School\n2017 - 2018\n10th in Mathematics, Science, English, Social Science, Hindi | 89%\nDarbhanga, Bihar\nEXPERIENCE\nQualys\nMar 2025 - Present\nSoftware Developer Intern\nPune, In-Office\n\u2022 Designed mock asset data using Protobuf definitions and published to Kafka topics to support testing of asset ingestion and\ntransformation services.\n\u2022 Developed JUnit test cases for the Protobuf transformer service, ensuring robust validation of proto-to-Java model conversions\nacross internal serialization/deserialization pipelines.\n\u2022 Built Grafana dashboards using Prometheus metrics to monitor Kafka-based asset processing services, including message\nprocessing time, throughput, and consumer lag.\n\u2022 Developed a dynamic API to automate bulk publishing of diverse asset to Kafka, accelerating integration testing workflows.\n\u2022 Analyzed and resolved security vulnerabilities and code quality issues identified by Black Duck and Coverity analysis.\nClarovate\nJan 2025 - Feb 2025\nBackend Developer Intern\nPune, In-Office\n\u2022 Developed user authentication features (admin setup, password reset, role management) using TS, NestJS, and MongoDB.\n\u2022 Implemented invitation-based user onboarding with email templates, automating user creation and migration to User Schema.\n\u2022 Built a reusable Email Service with NodeMailer and Handlebars for dynamic email notifications (invitations, OTPs).\n\u2022 Designed file upload service for CSV files and campaign management (CRUD operations) with robust error handling.\n\u2022 Built a CSV processing pipeline in NestJS for custom field mapping, bulk contact entry, and robust validation.\nPROJECTS\nStudyBridge: An Online Study Platform| MongoDb, Express, React, Nodejs, Redux Toolkit\njuly 2024\nlink\n* Streamlined the course purchasing process, improving user experience and driving higher enrollments.\n* Developed a responsive front-end with React and Tailwind CSS, improving user engagement.\n* Implemented Redux for centralized state management, improving scalability and reducing bugs.\n* Built RESTful APIs using Express and Node.js, efficiently handling multiple concurrent users.\n* Integrated Razorpay for payments Created real-time data visualizations with Chart.js for data-driven decision-making.\n* Implemented secure user authentication with JWT, OTP verification, password hashing with bcrypt ensuring platform security.\nNetflix - GPT | React, Redux Toolkit, Tailwind CSS\nFeb 2024\nlink\n* Created a Netflix-like App using React and Redux , fetching movie data from TMDB API .\n* Integrated YouTube trailer playback on movie card click for an engaging user experience.\n* Implemented user authentication, sign-up, and profile management using Firebase .\n* Created a GPT-powered search page for genre-specific movie searches, leveraging OpenAI API.\n* Improved app responsiveness, ensuring a seamless user experience on various devices.\nSKILLS\nLanguages: C, C++ (Advanced), Java, JavaScript, TypeScript\nBackend: Node.js, Express.js, Nest.js\nFrontend: React, TailwindCSS, HTML, CSS, Redux\nDatabases: MySQL, MongoDB\nDeveloper Tools: Postman, VS Code, GitHub, Bitbucket, Jira, DBeaver\nCoursework : Data Structures & Algorithms, Object-Oriented Programming, Operating Systems, Database Management\nACHIEVEMENTS\n* 450+ problems solved on LeetCode/GeeksforGeeks (Data Structures & Algorithms) with top 35% contest ranking.\n* Developed a financial advisory web app at a Blackrock Hackathon, featuring a scholarship finder based on income and category,\nloan options with different interest rates, and an EMI calculator.\n\n--- EXTRACTED LINKS ---\nhttps://leetcode.com/u/UditPanjiyar/\nhttps://www.geeksforgeeks.org/user/udit30mi/\nhttps://netflix-gpt-khaki.vercel.app\nhttps://www.linkedin.com/in/uditpanjiyar\nmailto:udit.30mi@gmail.com\nhttps://study-notion-frontend-theta-six.vercel.app/\nhttps://github.com/UditPanjiyar",
+        "full_name": "UDIT PANJIYAR",
+        "email": "udit.30mi@gmail.com",
+        "phone": "9508751654",
+        "github_url": "https://github.com/UditPanjiyar",
+        "linkedin_url": "https://www.linkedin.com/in/uditpanjiyar",
+        "skills": [
+          "Languages: C",
+          "C++ (Advanced",
+          "Java",
+          "JavaScript",
+          "TypeScript",
+          "Backend: Node.js",
+          "Express.js",
+          "Nest.js",
+          "Frontend: React",
+          "TailwindCSS",
+          "HTML",
+          "CSS",
+          "Redux",
+          "Databases: MySQL",
+          "MongoDB",
+          "Developer Tools: Postman",
+          "VS Code",
+          "GitHub",
+          "Bitbucket",
+          "Jira",
+          "DBeaver",
+          "Coursework : Data Structures & Algorithms",
+          "Object",
+          "Oriented Programming",
+          "Operating Systems",
+          "Database Management",
+          "ACHIEVEMENTS",
+          "featuring a scholarship finder based on income and category",
+          "loan options with different interest rates",
+          "and an EMI calculator.",
+          "EXTRACTED LINKS",
+          "https://leetcode.com/u/UditPanjiyar/",
+          "https://www.geeksforgeeks.org/user/udit30mi/",
+          "https://netflix",
+          "gpt",
+          "khaki.vercel.app",
+          "https://www.linkedin.com/in/uditpanjiyar",
+          "mailto:udit.30mi@gmail.com",
+          "https://study",
+          "notion",
+          "frontend",
+          "theta",
+          "six.vercel.app/",
+          "https://github.com/UditPanjiyar"
+        ],
+        "total_experience_years": 1.2,
+        "education": [
+          {
+            "degree": "ma",
+            "institution": "Pune",
+            "year": "20"
+          },
+          {
+            "degree": "Ba",
+            "institution": "Pune",
+            "year": "20",
+            "percentage": "86.4"
+          },
+          {
+            "degree": "Ma",
+            "institution": "Sri chaitanya",
+            "year": "20",
+            "percentage": "86.4"
+          },
+          {
+            "degree": "Ma",
+            "institution": "Physics",
+            "year": "20",
+            "percentage": "86.4"
+          },
+          {
+            "degree": "Be",
+            "institution": "",
+            "year": "20",
+            "percentage": "89.0"
+          },
+          {
+            "degree": "Ma",
+            "institution": "Science",
+            "year": "20",
+            "percentage": "89.0"
+          }
+        ],
+        "certifications": [],
+        "projects": [
+          {
+            "name": "",
+            "description": "StudyBridge: An Online Study Platform| MongoDb, Express, React, Nodejs, Redux Toolkit july 2024 Streamlined the course purchasing process, improving user experience and driving higher enrollments. Developed a responsive front-end with React and Tailwind CSS, improving user engagement. Implemented Redux for centralized state management, improving scalability and reducing bugs. Built RESTful APIs using Express and Node.js, efficiently handling multiple concurrent users. Integrated Razorpay for payments Created real-time data visualizations with Chart.js for data-driven decision-making. Implemented secure user authentication with JWT, OTP verification, password hashing with bcrypt ensuring platform security.",
+            "techstack": [
+              "Nodejs",
+              "React",
+              "Node.js",
+              "MongoDb",
+              "Express",
+              "Tailwind"
+            ]
+          },
+          {
+            "name": "Feb 2024",
+            "description": "Created a Netflix-like App using React and Redux , fetching movie data from TMDB API . Integrated YouTube trailer playback on movie card click for an engaging user experience. Implemented user authentication, sign-up, and profile management using Firebase . Created a GPT-powered search page for genre-specific movie searches, leveraging OpenAI API. Improved app responsiveness, ensuring a seamless user experience on various devices.",
+            "techstack": [
+              "React",
+              "GPT"
+            ]
+          }
+        ],
+        "work_history": []
+      },
+      "github": {
+        "username": "UditPanjiyar",
+        "profile_url": "https://github.com/UditPanjiyar",
+        "exists": true,
+        "public_repos": 21,
+        "followers": 0,
+        "total_commits_last_year": 0,
+        "contribution_streak_days": 0,
+        "top_languages": [
+          "JavaScript",
+          "Java",
+          "CSS",
+          "C++",
+          "HTML"
+        ],
+        "stars_total": 2,
+        "jd_language_match": false,
+        "account_age_years": 2.9,
+        "bio": ""
+      },
+      "linkedin": {
+        "profile_url": "https://www.linkedin.com/in/uditpanjiyar",
+        "exists": false,
+        "source": "none",
+        "headline": "",
+        "current_title": "",
+        "location": "",
+        "tenure_years": 0.0,
+        "connections": 0,
+        "summary": ""
+      },
+      "similarity_scores": {
+        "semantic_score": 0.228,
+        "keyword_score": 0.3333,
+        "composite_score": 0.2701
+      }
+    },
+    {
+      "candidate_id": "cand_0000_2260d1",
+      "full_name": "DINESH SAHARE",
+      "email": "dsahare024@gmail.com",
+      "total_score": 0.0,
+      "blocker_count": 0,
+      "dimension_scores": [],
+      "missing_requirements": [],
+      "red_flags": [
+        "Evaluation error: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01jr7a2w63e8z9ch8p8h2pt2dd` service tier `on_demand` on tokens per minute (TPM): Li"
+      ],
+      "confidence": "low",
+      "confidence_reason": "Evaluation failed: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in o",
+      "suggested_questions": [],
+      "role_level": "junior",
+      "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01jr7a2w63e8z9ch8p8h2pt2dd` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Used 4257, Requested 9170. Please try again in 7.135s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",
+      "resume": {
+        "candidate_id": "cand_0000_2260d1",
+        "raw_path": "C:\\Users\\Kishor\\AppData\\Local\\Temp\\recruitment_7qn_dpqv\\baeec3255ca44488a35c9bc2f5bce4b6_Dinesh_Sahare(CV).pdf",
+        "raw_text": "DINESH SAHARE\n+91 8007339218 | dsahare024@gmail.com | linkedin |\nEDUCATION\nManikgarh Cement English School : 10th CBSE Board\nGadchandur, MH 2020\nSavatri Bai Fule Jr. College: 12th State Board\nGadchandur, MH 2022\nVishwakarma Institute Of Information Technology,\nPune, MH\nBachelor of Technology in Mechanical Engineering,\n2022-2026\nSKILLS\n\u2022 Advanced CAD & CAE Proficiency:Expert in 3D modeling and assembly using SolidWorks. Proficient in ANSYS\nWorkbench for Finite Element Analysis (FEA) to simulate and analyze structural performance.\n\u2022 Vehicle Dynamics & Component Design: Strong understanding of vehicle dynamics, steering, and suspension\nsystems. Skilled in designing and optimizing components like uprights, hubs, and wheel assemblies to improve\nhandling, durability, and performance.\n\u2022 Material & Manufacturing Knowledge: Adept at material selection based on performance requirements, with a\nclear understanding of its impact on the design and manufacturing process.\nEXPERIENCE (FORMULA STUDENT)\nFEA | Ansys Workbench Design of Knuckle and HUB\nJan 2023 - June 2025\nEngineered and validated the knuckle/upright and hub assembly, ensuring performance under dynamic loads,\nwhich was successfully implemented and is currently in use on the vehicle. Delivered a functional and reli-\nable suspension component design (knuckle/upright and hub) adopted in the final race car, ensuring improved\nperformance and durability.\nManufacturing Lead | vishwaracers\nOct 2024 - June 2025\nManaged the entire manufacturing process, ensuring timely completion and adherence to design and quality\nstandards. Improved production workflows, resource allocation, and quality control to enhance efficiency and\nsafety.\nVehicle Dynamics | vishwaracers\nJan 2023- June 2025\nOwned design of knuckle/upright and hub assemblies; set suspension geometry (camber, caster, KPI, scrub\nradius, roll center); and developed the steering system and steering wheel, with 3D CAD modeling and basic\nstructural checks.\nMedia Lead | vishwaracers\nOct 2024 - June 2025\nManaged and boost-up the student formula team\u2019s brand presence through effective communication, content\ncreation, and promotional campaigns, which increased team visibility and secured sponsorship.\nDalmia Cement(Internship) | ccw\nAug 2025 - Nov 2025\nCompleted internship at Dalmia Cement, gaining hands-on exposure to industrial processes and quality control,\nwhile learning the complete production of cement from raw material (limestone) to the final product.\nPROJECTS\nVersatile Folding Table | Link\nNov2024\n\u2022 Designed and developed a versatile folding table showcasing innovative, practical, and space-efficient design\nsolutions.\nVersatile Folding Clothes Rack/Stand |Link\nApril 2025\n\u2022 Designed and developed a versatile folding clothes rack/stand, combining functionality, durability, and space-\nsaving design.\n\n--- EXTRACTED LINKS ---\nhttps://drive.google.com/file/d/1u0U8Op1q_QReBcEofebBYhKmDkbwJohv/view?usp=sharing/\nmailto:dsahare024@gmail.com\nhttps://docs.google.com/document/d/1OnKwISYMBfpehBi3Pt_KB4D9R7genpgn/edit?usp=sharing&ouid=103545052442470391583&rtpof=true&sd=true/\nhttps://docs.google.com/document/d/1iNeTaHQDZ_6S0ANyw5R2m44hxI7srJmm/edit?usp=sharing&ouid=103545052442470391583&rtpof=true&sd=true/\nhttps://www.linkedin.com/in/dinesh-sahare-37b4a7258/",
+        "full_name": "DINESH SAHARE",
+        "email": "dsahare024@gmail.com",
+        "phone": "+91 8007339218",
+        "github_url": "",
+        "linkedin_url": "https://www.linkedin.com/in/dinesh-sahare-37b4a7258",
+        "skills": [
+          "steering",
+          "and suspension",
+          "hubs",
+          "and wheel assemblies to improve",
+          "handling",
+          "durability",
+          "and performance.",
+          "with a",
+          "EXPERIENCE (FORMULA STUDENT",
+          "FEA",
+          "Ansys Workbench Design of Knuckle and HUB",
+          "Jan 2023",
+          "June 2025",
+          "ensuring performance under dynamic loads",
+          "ensuring improved",
+          "performance and durability.",
+          "Manufacturing Lead",
+          "vishwaracers",
+          "Oct 2024",
+          "Managed the entire manufacturing process",
+          "standards. Improved production workflows",
+          "resource allocation",
+          "and quality control to enhance efficiency and",
+          "safety.",
+          "Vehicle Dynamics",
+          "Owned design of knuckle/upright and hub assemblies",
+          "set suspension geometry (camber",
+          "caster",
+          "KPI",
+          "scrub",
+          "radius",
+          "roll center",
+          "and developed the steering system and steering wheel",
+          "with 3D CAD modeling and basic",
+          "structural checks.",
+          "Media Lead",
+          "Managed and boost",
+          "content",
+          "creation",
+          "and promotional campaigns",
+          "which increased team visibility and secured sponsorship.",
+          "Dalmia Cement(Internship",
+          "ccw",
+          "Aug 2025",
+          "Nov 2025",
+          "Completed internship at Dalmia Cement",
+          "gaining hands",
+          "on exposure to industrial processes and quality control"
+        ],
+        "total_experience_years": 6.4,
+        "education": [
+          {
+            "degree": "Ma",
+            "institution": "Gadchandur",
+            "year": "20"
+          },
+          {
+            "degree": "Ba",
+            "institution": "Gadchandur",
+            "year": "20"
+          },
+          {
+            "degree": "ma",
+            "institution": "Pune",
+            "year": "20"
+          },
+          {
+            "degree": "Ba",
+            "institution": "",
+            "year": "20"
+          }
+        ],
+        "certifications": [],
+        "projects": [
+          {
+            "name": "Nov2024",
+            "description": "Designed and developed a versatile folding table showcasing innovative, practical, and space-efficient design solutions.",
+            "techstack": []
+          },
+          {
+            "name": "April 2025",
+            "description": "Designed and developed a versatile folding clothes rack/stand, combining functionality, durability, and space- saving design.",
+            "techstack": []
+          },
+          {
+            "name": "EXTRACTED LINKS ---",
+            "description": "https://drive.google.com/file/d/1u0U8Op1q_QReBcEofebBYhKmDkbwJohv/view?usp=sharing/ mailto:dsahare024@gmail.com https://docs.google.com/document/d/1OnKwISYMBfpehBi3Pt_KB4D9R7genpgn/edit?usp=sharing&ouid=103545052442470391583&rtpof=true&sd=true/ https://docs.google.com/document/d/1iNeTaHQDZ_6S0ANyw5R2m44hxI7srJmm/edit?usp=sharing&ouid=103545052442470391583&rtpof=true&sd=true/ https://www.linkedin.com/in/dinesh-sahare-37b4a7258/",
+            "techstack": []
+          }
+        ],
+        "work_history": []
+      },
+      "github": {},
+      "linkedin": {
+        "profile_url": "https://www.linkedin.com/in/dinesh-sahare-37b4a7258",
+        "exists": false,
+        "source": "none",
+        "headline": "",
+        "current_title": "",
+        "location": "",
+        "tenure_years": 0.0,
+        "connections": 0,
+        "summary": ""
+      },
+      "similarity_scores": {
+        "semantic_score": 0.2338,
+        "keyword_score": 0.0,
+        "composite_score": 0.1403
+      }
+    },
+    {
+      "candidate_id": "cand_0003_0a4a90",
+      "full_name": "VISHAL JAGDALE",
+      "email": "vishaljagdale6168@gmail.com",
+      "total_score": 0.0,
+      "blocker_count": 0,
+      "dimension_scores": [],
+      "missing_requirements": [],
+      "red_flags": [
+        "Evaluation error: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01jr7a2w63e8z9ch8p8h2pt2dd` service tier `on_demand` on tokens per minute (TPM): Li"
+      ],
+      "confidence": "low",
+      "confidence_reason": "Evaluation failed: Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in o",
+      "suggested_questions": [],
+      "role_level": "junior",
+      "error": "Error code: 429 - {'error': {'message': 'Rate limit reached for model `llama-3.3-70b-versatile` in organization `org_01jr7a2w63e8z9ch8p8h2pt2dd` service tier `on_demand` on tokens per minute (TPM): Limit 12000, Used 4257, Requested 9231. Please try again in 7.439999999s. Need more tokens? Upgrade to Dev Tier today at https://console.groq.com/settings/billing', 'type': 'tokens', 'code': 'rate_limit_exceeded'}}",
+      "resume": {
+        "candidate_id": "cand_0003_0a4a90",
+        "raw_path": "C:\\Users\\Kishor\\AppData\\Local\\Temp\\recruitment_7qn_dpqv\\167b88b1e73a4dd5a269cc47e62714d6_VishalJagdale_Resume.pdf",
+        "raw_text": "VISHAL JAGDALE\n\u0083 +91 7378896168 | # vishaljagdale6168@gmail.com | \u00ef | \u00a7 | LeetCode\nSUMMARY\nComputer Science graduate skilled in MERN stack and Java development with experience building full-stack appli-\ncations and solving 350+ DSA problems, showcasing strong problem-solving and software engineering abilities.\nEDUCATION\nVishwakarma College of Arts, Commerce and Science\nPune, MH\nMaster of Science in Computer Science \u2014 Currently pursuing 1st semester\n2025\u20132027\nVishwakarma College of Arts, Commerce and Science\nPune, MH\nBachelor of Computer Science \u2014 CGPA: 7.75\n2022\u20132025\nTECHNICAL SKILLS\nLanguages: Java, JavaScript, Typescript\nFrameworks: React.js, Node.js, Express.js, Tailwind CSS\nDatabases: MongoDB, MySQL\nDeveloper Tools:AWS, Git, GitHub, Postman, Redux, Docker, Cloudinary, Vercel\nFundamentals: Object-Oriented Programming, Data Structures, Algorithms, Operating Systems, Computer Net-\nworking, Blockchain Technology\nEXPERIENCE\n5Tech G \u2014 Software Developer Intern\nJune 2025 \u2013 Present\n\u2022 Built multi-customer and invoicing modules for a manufacturing industry project; also handled direct\nclient communication.\n\u2022 Designed the MySQL database and developed backend APIs using Node.js for the RA Masala project.\n\u2022 Leading the development of a full-stack MLA project using the MERN stack.\n\u2022 Managing and mentoring a team of 3 interns, overseeing task assignments and development timelines.\nPROJECTS\nMLA Grievance \u2014 MERN Stack, DigitalOcean, MySQL, Vercel\n\u00a7\nJul 2025 \u2013 Aug 2025\n\u2022 Built a portal to digitize grievance records for MLA offices, replacing manual logs.\n\u2022 Designed dashboards with visual analytics for issue tracking and resolution status.\n\u2022 Added event scheduling and tracking for MLA activities with role-based access.\nHealthNodes \u2014 MERN Stack, FastAPI, Python, NLP, Deep Learning\n\u00a7\nJan 2025 \u2013 Feb 2025\n\u2022 Created an AI-powered disease prediction system using symptoms and skin images.\n\u2022 Integrated a chatbot for real-time medical queries and health advice.\n\u2022 Developed a medication reminder system with real-time notification alerts.\nLazyLearner \u2014 MERN Stack, Stripe, Cloudinary\n\u00a7\nNov 2024 \u2013 Jan 2025\n\u2022 Developed a role-based LMS platform for students and instructors.\n\u2022 Integrated Stripe API for seamless and secure payment handling.\n\u2022 Enabled dynamic course creation and used Cloudinary for media optimization.\nACHIEVEMENTS\n\u2022 Solved 350+ DSA problems on platforms like LeetCode and GFG.\n\u2022 Led a team in a national hackathon, securing a top-50 rank out of 400+ teams.\n\u2022 Earned a distinguished 100-day accomplishment badge on LeetCode.\n\n--- EXTRACTED LINKS ---\nhttps://github.com/vishaldjagdale/LazyLearner\nhttps://leetcode.com/u/vishaljagdale/\nhttps://github.com/5TechG-IT/Ticket_raiseing\nhttps://www.linkedin.com/in/vishaldjagdale/\nhttps://github.com/vishaldjagdale\nmailto:vishaljagdale6168@gmail.com\nhttps://github.com/vishaldjagdale/Health\ntel:+917378896168",
+        "full_name": "VISHAL JAGDALE",
+        "email": "vishaljagdale6168@gmail.com",
+        "phone": "+91 7378896168",
+        "github_url": "https://github.com/vishaldjagdale",
+        "linkedin_url": "https://www.linkedin.com/in/vishaldjagdale",
+        "skills": [
+          "Languages: Java",
+          "JavaScript",
+          "Typescript",
+          "Frameworks: React.js",
+          "Node.js",
+          "Express.js",
+          "Tailwind CSS",
+          "Databases: MongoDB",
+          "MySQL",
+          "Developer Tools:AWS",
+          "Git",
+          "GitHub",
+          "Postman",
+          "Redux",
+          "Docker",
+          "Cloudinary",
+          "Vercel",
+          "Fundamentals: Object",
+          "Oriented Programming",
+          "Data Structures",
+          "Algorithms",
+          "Operating Systems",
+          "Computer Net",
+          "working",
+          "Blockchain Technology"
+        ],
+        "total_experience_years": 1.2,
+        "education": [
+          {
+            "degree": "ma",
+            "institution": "Commerce and Science",
+            "year": "20"
+          },
+          {
+            "degree": "Ma",
+            "institution": "",
+            "year": "20",
+            "gpa": "7.75"
+          },
+          {
+            "degree": "ma",
+            "institution": "Commerce and Science",
+            "year": "20",
+            "gpa": "7.75"
+          },
+          {
+            "degree": "Ba",
+            "institution": "",
+            "year": "20",
+            "gpa": "7.75"
+          }
+        ],
+        "certifications": [],
+        "projects": [
+          {
+            "name": "Jul 2025 \u2013 Aug 2025",
+            "description": "Built a portal to digitize grievance records for MLA offices, replacing manual logs. Designed dashboards with visual analytics for issue tracking and resolution status. Added event scheduling and tracking for MLA activities with role-based access.",
+            "techstack": []
+          },
+          {
+            "name": "Jan 2025 \u2013 Feb 2025",
+            "description": "Created an AI-powered disease prediction system using symptoms and skin images.",
+            "techstack": []
+          },
+          {
+            "name": "Solved 350+ DSA problems on platforms like LeetCode and GFG.",
+            "description": "Led a team in a national hackathon, securing a top-50 rank out of 400+ teams.",
+            "techstack": []
+          },
+          {
+            "name": "EXTRACTED LINKS ---",
+            "description": "https://github.com/vishaldjagdale/LazyLearner https://leetcode.com/u/vishaljagdale/ https://github.com/5TechG-IT/Ticket_raiseing https://www.linkedin.com/in/vishaldjagdale/ https://github.com/vishaldjagdale mailto:vishaljagdale6168@gmail.com https://github.com/vishaldjagdale/Health tel:+917378896168",
+            "techstack": []
+          }
+        ],
+        "work_history": []
+      },
+      "github": {
+        "username": "vishaldjagdale",
+        "profile_url": "https://github.com/vishaldjagdale",
+        "exists": true,
+        "public_repos": 32,
+        "followers": 3,
+        "total_commits_last_year": 0,
+        "contribution_streak_days": 0,
+        "top_languages": [
+          "JavaScript",
+          "Java",
+          "TypeScript",
+          "HCL",
+          "EJS"
+        ],
+        "stars_total": 3,
+        "jd_language_match": false,
+        "account_age_years": 2.6,
+        "bio": "\ud83c\udf93 Computer Science Undergraduate | \ud83d\udcbb Full-Stack Developer | \ud83c\udf1f Open Source Enthusiast\r\n\ud83d\udd0d Exploring AI, web development, and scalable solutions.\r\n\ud83d\udcc8 Building "
+      },
+      "linkedin": {
+        "profile_url": "https://www.linkedin.com/in/vishaldjagdale",
+        "exists": false,
+        "source": "none",
+        "headline": "",
+        "current_title": "",
+        "location": "",
+        "tenure_years": 0.0,
+        "connections": 0,
+        "summary": ""
+      },
+      "similarity_scores": {
+        "semantic_score": 0.458,
+        "keyword_score": 0.6667,
+        "composite_score": 0.5415
+      }
+    }
+  ],
+  "weights_used": {
+    "jd_match": 0.3333333333333333,
+    "education": 0.07407407407407407,
+    "technical_skills": 0.1111111111111111,
+    "project_quality": 0.07407407407407407,
+    "experience": 0.1111111111111111,
+    "github": 0.18518518518518517,
+    "linkedin": 0.1111111111111111
+  },
+  "generated_at": "2026-04-03T09:07:48.641227",
+  "shortlisted": [
+    {
+      "rank": 1,
+      "candidate_id": "cand_0001_93e6a4",
+      "full_name": "KISHOR PATIL",
+      "email": "kishorpatil7112@gmail.com",
+      "total_score": 56.0,
+      "blocker_count": 0,
+      "delta_to_next": 9.75,
+      "confidence": "high",
+      "confidence_reason": "Strong technical skills and relevant projects",
+      "top_skills": [
+        "Languages: C++",
+        "Python",
+        "SQL",
+        "Data Engineering: ETL",
+        "Data Cleaning"
+      ],
+      "red_flag_count": 0,
+      "red_flags": [],
+      "missing_requirements": [],
+      "suggested_questions": [
+        "Can you elaborate on your experience with ML and NLP?",
+        "How do you approach data engineering and data visualization?",
+        "Can you walk me through your project on end-to-end data pipeline?"
+      ],
+      "dimension_scores": [
+        {
+          "dimension": "JD Match",
+          "raw_score": 69,
+          "weighted_score": 20.0,
+          "band": "strong",
+          "rationale": "High keyword overlap and moderate TF-IDF similarity"
+        },
+        {
+          "dimension": "Education",
+          "raw_score": 18,
+          "weighted_score": 9.0,
+          "band": "strong",
+          "rationale": "Relevant master's degree with high GPA"
+        },
+        {
+          "dimension": "Technical Skills",
+          "raw_score": 90,
+          "weighted_score": 13.0,
+          "band": "strong",
+          "rationale": "Broad range of relevant technical skills, including python, data structures, and ML"
+        },
+        {
+          "dimension": "Project Quality",
+          "raw_score": 80,
+          "weighted_score": 8.0,
+          "band": "strong",
+          "rationale": "Relevant projects with modern tech stack and real-world impact"
+        },
+        {
+          "dimension": "Experience",
+          "raw_score": 20,
+          "weighted_score": 3.0,
+          "band": "weak",
+          "rationale": "Limited experience, but some relevant work history"
+        },
+        {
+          "dimension": "GitHub Activity",
+          "raw_score": 20,
+          "weighted_score": 3.0,
+          "band": "weak",
+          "rationale": "Limited GitHub activity, but some relevant repositories"
+        },
+        {
+          "dimension": "LinkedIn Presence",
+          "raw_score": 0,
+          "weighted_score": 0.0,
+          "band": "absent",
+          "rationale": "No LinkedIn data available"
+        }
+      ],
+      "error": "",
+      "justification": "Score: 56.0/100 | Confidence: high | Blockers: 0"
+    },
+    {
+      "rank": 2,
+      "candidate_id": "cand_0002_978bd2",
+      "full_name": "UDIT PANJIYAR",
+      "email": "udit.30mi@gmail.com",
+      "total_score": 46.25,
+      "blocker_count": 1,
+      "delta_to_next": 46.25,
+      "confidence": "medium",
+      "confidence_reason": "Limited information about work history and lack of python experience",
+      "top_skills": [
+        "Languages: C",
+        "C++ (Advanced",
+        "Java",
+        "JavaScript",
+        "TypeScript"
+      ],
+      "red_flag_count": 2,
+      "red_flags": [
+        "Limited python experience",
+        "No recent GitHub activity"
+      ],
+      "missing_requirements": [
+        {
+          "skill": "python",
+          "severity": "blocker"
+        }
+      ],
+      "suggested_questions": [
+        "Can you explain your experience with python?",
+        "How do you think your skills align with the ML domain?",
+        "Can you walk me through your project development process?"
+      ],
+      "dimension_scores": [
+        {
+          "dimension": "JD Match",
+          "raw_score": 27,
+          "weighted_score": 6.75,
+          "band": "weak",
+          "rationale": "Low keyword overlap and TF-IDF similarity"
+        },
+        {
+          "dimension": "Education",
+          "raw_score": 80,
+          "weighted_score": 8.0,
+          "band": "strong",
+          "rationale": "Relevant degrees with high percentages"
+        },
+        {
+          "dimension": "Technical Skills",
+          "raw_score": 70,
+          "weighted_score": 10.5,
+          "band": "strong",
+          "rationale": "Variety of technical skills, but limited depth in python and data structures"
+        },
+        {
+          "dimension": "Project Quality",
+          "raw_score": 60,
+          "weighted_score": 6.0,
+          "band": "adequate",
+          "rationale": "Some projects align with JD requirements, but lack of complexity and real-world impact"
+        },
+        {
+          "dimension": "Experience",
+          "raw_score": 120,
+          "weighted_score": 15.0,
+          "band": "strong",
+          "rationale": "More than required experience, but limited relevance to ML domain"
+        },
+        {
+          "dimension": "GitHub Activity",
+          "raw_score": 10,
+          "weighted_score": 0.0,
+          "band": "absent",
+          "rationale": "No recent commits, no python projects, and no contribution streak"
+        },
+        {
+          "dimension": "LinkedIn Presence",
+          "raw_score": 0,
+          "weighted_score": 0.0,
+          "band": "absent",
+          "rationale": "No LinkedIn data available"
+        }
+      ],
+      "error": "",
+      "justification": "Score: 46.25/100 | Confidence: medium | Blockers: 1"
+    }
+  ]
+}

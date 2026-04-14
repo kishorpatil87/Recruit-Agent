@@ -1,0 +1,925 @@
+{
+  "run_id": "7a56275d-8d7e-4533-a5ae-c15c3bc55fbe",
+  "jd_title": "Python Engineer",
+  "jd_company": "",
+  "role_level": "mid",
+  "total_candidates": 3,
+  "entries": [
+    {
+      "rank": 1,
+      "candidate_id": "cand_0001_bf7c12",
+      "full_name": "UDIT PANJIYAR",
+      "email": "udit.30mi@gmail.com",
+      "total_score": 63.32,
+      "blocker_count": 0,
+      "delta_to_next": 23.32,
+      "confidence": "high",
+      "confidence_reason": "The candidate has a strong educational background and some experience in relevant technologies, which aligns with the job description's requirements.",
+      "top_skills": [
+        "JavaScript",
+        "Java",
+        "CSS",
+        "C++",
+        "HTML"
+      ],
+      "red_flag_count": 0,
+      "red_flags": [],
+      "missing_requirements": [],
+      "suggested_questions": [
+        "Can you share your projects that demonstrate backend skills?"
+      ],
+      "dimension_scores": [
+        {
+          "dimension": "JD Match",
+          "raw_score": 5,
+          "weighted_score": 8.33,
+          "band": "adequate",
+          "rationale": "The skills listed in the job description (Python, FastAPI, NumPy, Pandas) partially overlap with the candidate's experience and education."
+        },
+        {
+          "dimension": "Education",
+          "raw_score": 10,
+          "weighted_score": 8.33,
+          "band": "adequate",
+          "rationale": "The candidate has a strong educational background in Information Technology, which is relevant to the job description's domain (ML)."
+        },
+        {
+          "dimension": "Technical Skills",
+          "raw_score": 15,
+          "weighted_score": 15.0,
+          "band": "adequate",
+          "rationale": "The candidate has experience in JavaScript, Java, CSS, C++, HTML, and some backend technologies like Node.js, Express, React, Redux Toolkit, Tailwind CSS, which are relevant to the job description's domain (ML)."
+        },
+        {
+          "dimension": "Project Quality",
+          "raw_score": 10,
+          "weighted_score": 8.33,
+          "band": "adequate",
+          "rationale": "The candidate has projects that demonstrate experience in backend technologies and some frontend frameworks, which are relevant to the job description's domain (ML)."
+        },
+        {
+          "dimension": "Experience",
+          "raw_score": 0,
+          "weighted_score": 0.0,
+          "band": "weak",
+          "rationale": "The candidate has no experience in Python or any backend technologies listed in the job description."
+        },
+        {
+          "dimension": "GitHub Activity",
+          "raw_score": 15,
+          "weighted_score": 15.0,
+          "band": "adequate",
+          "rationale": "The candidate's GitHub profile shows some contributions to various languages, which are relevant to the job description's domain (ML)."
+        },
+        {
+          "dimension": "LinkedIn Presence",
+          "raw_score": 10,
+          "weighted_score": 8.33,
+          "band": "adequate",
+          "rationale": "The candidate has a LinkedIn profile, but it is incomplete and does not mention any relevant projects or skills."
+        }
+      ],
+      "error": "",
+      "justification": "Score: 63.32/100 | Confidence: high | Blockers: 0"
+    },
+    {
+      "rank": 2,
+      "candidate_id": "cand_0000_8eaa39",
+      "full_name": "KISHOR PATIL",
+      "email": "kishorpatil7112@gmail.com",
+      "total_score": 40.0,
+      "blocker_count": 0,
+      "delta_to_next": 11.0,
+      "confidence": "high",
+      "confidence_reason": "The candidate's skills and experience do not match the job description or preferred skills, resulting in a low score. The lack of relevant projects and GitHub/LinkedIn data further contributes to the low score.",
+      "top_skills": [
+        "Python",
+        "JavaScript",
+        "Kubernetes"
+      ],
+      "red_flag_count": 0,
+      "red_flags": [],
+      "missing_requirements": [],
+      "suggested_questions": [
+        "Could you provide more details on your previous work experience?",
+        "What are some examples of projects where you have used Python and JavaScript?"
+      ],
+      "dimension_scores": [
+        {
+          "dimension": "JD Match",
+          "raw_score": 5,
+          "weighted_score": 10.0,
+          "band": "adequate",
+          "rationale": "The skills listed in the job description (Python, FastAPI, NumPy, Pandas) partially overlap with the candidate's skills (Python, JavaScript, Kubernetes). The preferred skills do not match any of the candidate's skills."
+        },
+        {
+          "dimension": "Education",
+          "raw_score": 10,
+          "weighted_score": 5.0,
+          "band": "adequate",
+          "rationale": "The degree is relevant to the field of computer science engineering, and the GPA is high. The candidate has completed their education within the required timeframe."
+        },
+        {
+          "dimension": "Technical Skills",
+          "raw_score": 10,
+          "weighted_score": 5.0,
+          "band": "adequate",
+          "rationale": "The skills listed in the job description partially overlap with the candidate's skills. The preferred skills do not match any of the candidate's skills."
+        },
+        {
+          "dimension": "Project Quality",
+          "raw_score": 0,
+          "weighted_score": 5.0,
+          "band": "weak",
+          "rationale": "No projects listed in the job description or work history match with the candidate's projects. The projects focus on automated resume parsing and data verification, which are not related to ML."
+        },
+        {
+          "dimension": "Experience",
+          "raw_score": 0,
+          "weighted_score": 5.0,
+          "band": "weak",
+          "rationale": "No experience listed in the job description or work history matches with the candidate's experience. The candidate has not worked in any relevant field."
+        },
+        {
+          "dimension": "GitHub Activity",
+          "raw_score": 0,
+          "weighted_score": 5.0,
+          "band": "weak",
+          "rationale": "No GitHub activity data is available, and it is absent as per the provided information. The candidate has not contributed to any public repositories."
+        },
+        {
+          "dimension": "LinkedIn Presence",
+          "raw_score": 0,
+          "weighted_score": 5.0,
+          "band": "weak",
+          "rationale": "No LinkedIn data available, and it is absent as per the provided information. The candidate has not established a professional presence on LinkedIn."
+        }
+      ],
+      "error": "",
+      "justification": "Score: 40.0/100 | Confidence: high | Blockers: 0"
+    },
+    {
+      "rank": 3,
+      "candidate_id": "cand_0002_8b3ebb",
+      "full_name": "VISHAL JAGDALE",
+      "email": "vishaljagdale6168@gmail.com",
+      "total_score": 29.0,
+      "blocker_count": 0,
+      "delta_to_next": 0.0,
+      "confidence": "high",
+      "confidence_reason": "The candidate has relevant skills and experience, but does not match the required or preferred skills of the job. The lack of education details and work history is a concern.",
+      "top_skills": [
+        "Java",
+        "JavaScript",
+        "TypeScript",
+        "React.js",
+        "Node.js"
+      ],
+      "red_flag_count": 0,
+      "red_flags": [],
+      "missing_requirements": [],
+      "suggested_questions": [],
+      "dimension_scores": [
+        {
+          "dimension": "JD Match",
+          "raw_score": 14,
+          "weighted_score": 14.0,
+          "band": "adequate",
+          "rationale": "The skills listed in the job description (Python, FastAPI, Numpy, Pandas) partially overlap with those of the candidate. The education and work experience do not match the required or preferred skills."
+        },
+        {
+          "dimension": "Education",
+          "raw_score": 0,
+          "weighted_score": 0.0,
+          "band": "weak",
+          "rationale": "The degree is from a college, but it does not specify Computer Science. The GPA is missing and the education history does not match the required or preferred skills."
+        },
+        {
+          "dimension": "Technical Skills",
+          "raw_score": 15,
+          "weighted_score": 15.0,
+          "band": "adequate",
+          "rationale": "The candidate has experience with Java, JavaScript, TypeScript, React.js, Node.js, Express.js, Tailwind CSS, MongoDB, MySQL, AWS, Git, GitHub, Postman, Redux, Docker, Cloudinary, Vercel. These skills are relevant to the job description."
+        },
+        {
+          "dimension": "Project Quality",
+          "raw_score": 0,
+          "weighted_score": 0.0,
+          "band": "weak",
+          "rationale": "The projects listed do not match the required or preferred skills of the job. The projects are related to MERN Stack, DigitalOcean, MySQL, Stripe API, Cloudinary, and FastAPI."
+        },
+        {
+          "dimension": "Experience",
+          "raw_score": 0,
+          "weighted_score": 0.0,
+          "band": "weak",
+          "rationale": "The candidate has no relevant experience that matches the required or preferred skills of the job. The work history is not related to the job description."
+        },
+        {
+          "dimension": "GitHub Activity",
+          "raw_score": 15,
+          "weighted_score": 0.0,
+          "band": "weak",
+          "rationale": "The GitHub data shows a high number of public repositories and followers, but no commits or contribution streaks. The top languages are not relevant to the job description."
+        },
+        {
+          "dimension": "LinkedIn Presence",
+          "raw_score": 0,
+          "weighted_score": 0.0,
+          "band": "weak",
+          "rationale": "The LinkedIn data is missing, and there is no information about the candidate's professional activities or achievements."
+        }
+      ],
+      "error": ""
+    }
+  ],
+  "scorecards": [
+    {
+      "dimension_scores": [
+        {
+          "dimension": "JD Match",
+          "raw_score": 5,
+          "weighted_score": 8.33,
+          "band": "adequate",
+          "rationale": "The skills listed in the job description (Python, FastAPI, NumPy, Pandas) partially overlap with the candidate's experience and education."
+        },
+        {
+          "dimension": "Education",
+          "raw_score": 10,
+          "weighted_score": 8.33,
+          "band": "adequate",
+          "rationale": "The candidate has a strong educational background in Information Technology, which is relevant to the job description's domain (ML)."
+        },
+        {
+          "dimension": "Technical Skills",
+          "raw_score": 15,
+          "weighted_score": 15.0,
+          "band": "adequate",
+          "rationale": "The candidate has experience in JavaScript, Java, CSS, C++, HTML, and some backend technologies like Node.js, Express, React, Redux Toolkit, Tailwind CSS, which are relevant to the job description's domain (ML)."
+        },
+        {
+          "dimension": "Project Quality",
+          "raw_score": 10,
+          "weighted_score": 8.33,
+          "band": "adequate",
+          "rationale": "The candidate has projects that demonstrate experience in backend technologies and some frontend frameworks, which are relevant to the job description's domain (ML)."
+        },
+        {
+          "dimension": "Experience",
+          "raw_score": 0,
+          "weighted_score": 0.0,
+          "band": "weak",
+          "rationale": "The candidate has no experience in Python or any backend technologies listed in the job description."
+        },
+        {
+          "dimension": "GitHub Activity",
+          "raw_score": 15,
+          "weighted_score": 15.0,
+          "band": "adequate",
+          "rationale": "The candidate's GitHub profile shows some contributions to various languages, which are relevant to the job description's domain (ML)."
+        },
+        {
+          "dimension": "LinkedIn Presence",
+          "raw_score": 10,
+          "weighted_score": 8.33,
+          "band": "adequate",
+          "rationale": "The candidate has a LinkedIn profile, but it is incomplete and does not mention any relevant projects or skills."
+        }
+      ],
+      "total_score": 63.32,
+      "blocker_count": 0,
+      "missing_requirements": [],
+      "red_flags": [],
+      "confidence": "high",
+      "confidence_reason": "The candidate has a strong educational background and some experience in relevant technologies, which aligns with the job description's requirements.",
+      "suggested_questions": [
+        "Can you share your projects that demonstrate backend skills?"
+      ],
+      "candidate_id": "cand_0001_bf7c12",
+      "full_name": "UDIT PANJIYAR",
+      "email": "udit.30mi@gmail.com",
+      "role_level": "junior",
+      "error": "",
+      "resume": {
+        "candidate_id": "cand_0001_bf7c12",
+        "raw_path": "C:\\Users\\Kishor\\AppData\\Local\\Temp\\recruitment_pso1ks7n\\7a8b9a9637d340dea1b841ccb0faa225_UDIT_RESUME.pdf",
+        "raw_text": "UDIT PANJIYAR\n9508751654 # udit.30mi@gmail.com \u00ef LinkedIn \u00a7 Github\nLeetCode\nGFG\nEDUCATION\nVishwakarma Institute of Information Technology, Pune\n2021 - 2025\nBachelor of Engineering in Information Technology | 8.95 CGPA\nPune, Maharashtra\nSri chaitanya\n2018 - 2020\n12th in Mathematics, Physics, Chemistry | 86.4%\nVisakhapatnam, Andhra Pradesh\nBela Public School\n2017 - 2018\n10th in Mathematics, Science, English, Social Science, Hindi | 89%\nDarbhanga, Bihar\nEXPERIENCE\nQualys\nMar 2025 - Present\nSoftware Developer Intern\nPune, In-Office\n\u2022 Designed mock asset data using Protobuf definitions and published to Kafka topics to support testing of asset ingestion and\ntransformation services.\n\u2022 Developed JUnit test cases for the Protobuf transformer service, ensuring robust validation of proto-to-Java model conversions\nacross internal serialization/deserialization pipelines.\n\u2022 Built Grafana dashboards using Prometheus metrics to monitor Kafka-based asset processing services, including message\nprocessing time, throughput, and consumer lag.\n\u2022 Developed a dynamic API to automate bulk publishing of diverse asset to Kafka, accelerating integration testing workflows.\n\u2022 Analyzed and resolved security vulnerabilities and code quality issues identified by Black Duck and Coverity analysis.\nClarovate\nJan 2025 - Feb 2025\nBackend Developer Intern\nPune, In-Office\n\u2022 Developed user authentication features (admin setup, password reset, role management) using TS, NestJS, and MongoDB.\n\u2022 Implemented invitation-based user onboarding with email templates, automating user creation and migration to User Schema.\n\u2022 Built a reusable Email Service with NodeMailer and Handlebars for dynamic email notifications (invitations, OTPs).\n\u2022 Designed file upload service for CSV files and campaign management (CRUD operations) with robust error handling.\n\u2022 Built a CSV processing pipeline in NestJS for custom field mapping, bulk contact entry, and robust validation.\nPROJECTS\nStudyBridge: An Online Study Platform| MongoDb, Express, React, Nodejs, Redux Toolkit\njuly 2024\nlink\n* Streamlined the course purchasing process, improving user experience and driving higher enrollments.\n* Developed a responsive front-end with React and Tailwind CSS, improving user engagement.\n* Implemented Redux for centralized state management, improving scalability and reducing bugs.\n* Built RESTful APIs using Express and Node.js, efficiently handling multiple concurrent users.\n* Integrated Razorpay for payments Created real-time data visualizations with Chart.js for data-driven decision-making.\n* Implemented secure user authentication with JWT, OTP verification, password hashing with bcrypt ensuring platform security.\nNetflix - GPT | React, Redux Toolkit, Tailwind CSS\nFeb 2024\nlink\n* Created a Netflix-like App using React and Redux , fetching movie data from TMDB API .\n* Integrated YouTube trailer playback on movie card click for an engaging user experience.\n* Implemented user authentication, sign-up, and profile management using Firebase .\n* Created a GPT-powered search page for genre-specific movie searches, leveraging OpenAI API.\n* Improved app responsiveness, ensuring a seamless user experience on various devices.\nSKILLS\nLanguages: C, C++ (Advanced), Java, JavaScript, TypeScript\nBackend: Node.js, Express.js, Nest.js\nFrontend: React, TailwindCSS, HTML, CSS, Redux\nDatabases: MySQL, MongoDB\nDeveloper Tools: Postman, VS Code, GitHub, Bitbucket, Jira, DBeaver\nCoursework : Data Structures & Algorithms, Object-Oriented Programming, Operating Systems, Database Management\nACHIEVEMENTS\n* 450+ problems solved on LeetCode/GeeksforGeeks (Data Structures & Algorithms) with top 35% contest ranking.\n* Developed a financial advisory web app at a Blackrock Hackathon, featuring a scholarship finder based on income and category,\nloan options with different interest rates, and an EMI calculator.\n\n--- EXTRACTED LINKS ---\nhttps://study-notion-frontend-theta-six.vercel.app/\nhttps://github.com/UditPanjiyar\nhttps://www.linkedin.com/in/uditpanjiyar\nhttps://netflix-gpt-khaki.vercel.app\nmailto:udit.30mi@gmail.com\nhttps://www.geeksforgeeks.org/user/udit30mi/\nhttps://leetcode.com/u/UditPanjiyar/",
+        "full_name": "UDIT PANJIYAR",
+        "email": "udit.30mi@gmail.com",
+        "phone": "9508751654",
+        "github_url": "https://github.com/UditPanjiyar",
+        "linkedin_url": "https://www.linkedin.com/in/uditpanjiyar",
+        "skills": [
+          "JavaScript",
+          "Java",
+          "CSS",
+          "C++",
+          "HTML"
+        ],
+        "total_experience_years": 0.0,
+        "education": [
+          {
+            "degree": "Bachelor of Engineering in Information Technology",
+            "institution": "Vishwakarma Institute of Information Technology, Pune",
+            "year": "2021 - 2025",
+            "gpa": "8.95"
+          },
+          {
+            "degree": "12th in Mathematics, Physics, Chemistry",
+            "institution": "Sri Chaitanya",
+            "year": "2018 - 2020",
+            "percentage": "86.4%"
+          },
+          {
+            "degree": "10th in Mathematics, Science, English, Social Science, Hindi",
+            "institution": "Bela Public School",
+            "year": "2017 - 2018",
+            "percentage": "89%"
+          }
+        ],
+        "certifications": [],
+        "projects": [
+          {
+            "name": "StudyBridge: An Online Study Platform",
+            "description": "Streamlined the course purchasing process, improving user experience and driving higher enrollments.",
+            "techstack": [
+              "MongoDb",
+              "Express",
+              "React",
+              "Nodejs",
+              "Redux Toolkit"
+            ]
+          },
+          {
+            "name": "Netflix - GPT | React, Redux Toolkit, Tailwind CSS",
+            "description": "Created a Netflix-like App using React and Redux , fetching movie data from TMDB API . Integrated YouTube trailer playback on movie card click for an engaging user experience. Implemented user authentication, sign-up, and profile management using JWT, OTP verification, password hashing with bcrypt ensuring platform security.",
+            "techstack": [
+              "React",
+              "Redux Toolkit",
+              "Tailwind CSS"
+            ]
+          }
+        ],
+        "work_history": [],
+        "summary": "A dedicated software developer with a strong background in Information Technology. Skilled in designing and implementing scalable solutions using React, Redux, Node.js, MongoDB, and TypeScript."
+      },
+      "github": {
+        "username": "UditPanjiyar",
+        "profile_url": "https://github.com/UditPanjiyar",
+        "exists": true,
+        "public_repos": 21,
+        "followers": 0,
+        "total_commits_last_year": 0,
+        "contribution_streak_days": 0,
+        "top_languages": [
+          "JavaScript",
+          "Java",
+          "CSS",
+          "C++",
+          "HTML"
+        ],
+        "stars_total": 2,
+        "jd_language_match": false,
+        "account_age_years": 3.0,
+        "bio": ""
+      },
+      "linkedin": {
+        "profile_url": "https://www.linkedin.com/in/uditpanjiyar",
+        "exists": false,
+        "source": "none",
+        "headline": "",
+        "current_title": "",
+        "location": "",
+        "tenure_years": 0.0,
+        "connections": 0,
+        "summary": ""
+      },
+      "similarity_scores": {
+        "semantic_score": 0.2669,
+        "keyword_score": 0.0,
+        "composite_score": 0.1601
+      }
+    },
+    {
+      "dimension_scores": [
+        {
+          "dimension": "JD Match",
+          "raw_score": 5,
+          "weighted_score": 10.0,
+          "band": "adequate",
+          "rationale": "The skills listed in the job description (Python, FastAPI, NumPy, Pandas) partially overlap with the candidate's skills (Python, JavaScript, Kubernetes). The preferred skills do not match any of the candidate's skills."
+        },
+        {
+          "dimension": "Education",
+          "raw_score": 10,
+          "weighted_score": 5.0,
+          "band": "adequate",
+          "rationale": "The degree is relevant to the field of computer science engineering, and the GPA is high. The candidate has completed their education within the required timeframe."
+        },
+        {
+          "dimension": "Technical Skills",
+          "raw_score": 10,
+          "weighted_score": 5.0,
+          "band": "adequate",
+          "rationale": "The skills listed in the job description partially overlap with the candidate's skills. The preferred skills do not match any of the candidate's skills."
+        },
+        {
+          "dimension": "Project Quality",
+          "raw_score": 0,
+          "weighted_score": 5.0,
+          "band": "weak",
+          "rationale": "No projects listed in the job description or work history match with the candidate's projects. The projects focus on automated resume parsing and data verification, which are not related to ML."
+        },
+        {
+          "dimension": "Experience",
+          "raw_score": 0,
+          "weighted_score": 5.0,
+          "band": "weak",
+          "rationale": "No experience listed in the job description or work history matches with the candidate's experience. The candidate has not worked in any relevant field."
+        },
+        {
+          "dimension": "GitHub Activity",
+          "raw_score": 0,
+          "weighted_score": 5.0,
+          "band": "weak",
+          "rationale": "No GitHub activity data is available, and it is absent as per the provided information. The candidate has not contributed to any public repositories."
+        },
+        {
+          "dimension": "LinkedIn Presence",
+          "raw_score": 0,
+          "weighted_score": 5.0,
+          "band": "weak",
+          "rationale": "No LinkedIn data available, and it is absent as per the provided information. The candidate has not established a professional presence on LinkedIn."
+        }
+      ],
+      "total_score": 40.0,
+      "blocker_count": 0,
+      "missing_requirements": [],
+      "red_flags": [],
+      "confidence": "high",
+      "confidence_reason": "The candidate's skills and experience do not match the job description or preferred skills, resulting in a low score. The lack of relevant projects and GitHub/LinkedIn data further contributes to the low score.",
+      "suggested_questions": [
+        "Could you provide more details on your previous work experience?",
+        "What are some examples of projects where you have used Python and JavaScript?"
+      ],
+      "candidate_id": "cand_0000_8eaa39",
+      "full_name": "KISHOR PATIL",
+      "email": "kishorpatil7112@gmail.com",
+      "role_level": "junior",
+      "error": "",
+      "resume": {
+        "candidate_id": "cand_0000_8eaa39",
+        "raw_path": "C:\\Users\\Kishor\\AppData\\Local\\Temp\\recruitment_pso1ks7n\\07d37a5f066a4f2db90724b42f254e86_kishor_resume_AI.pdf",
+        "raw_text": "KISHOR PATIL\n+91 8788156977 | kishorpatil7112@gmail.com | LinkedIn | GitHub\nSUMMARY\nComputer Science student passionate about building scalable systems and working with Machine Learning, Generative\nand Agentic AI. I enjoy developing end-to-end projects and exploring new technologies. Looking for opportunities to\napply my skills to solve real-world problems\nEDUCATION\nVishwakarma Institute Of Information Technology,\nPune, MH\nBachelor of Technology in Computer Science Engineering (AIML); CGPA: 8.2\n2022-2026\nTECHNICAL SKILLS\nLanguages: C++, Python, SQL\nFrameworks & Libraries: Numpy, Pandas, Matplotlib, Scikit-learn, FastAPI, Langchain, Langgraph\nDatabases: MySQL , MongoDB\nAI & ML: Machine Learning , MLOps, Deep Learning, Natural Language Processing, Generative AI, Agentic AI\nCore Courses: Object Oriented Programming, Data Structures, Algorithms, Database Management System\nEXPERIENCE\nPariksha: Online Examination and Assessment System | Industry Project\n\u2022 Developed a web-based online examination system supporting question paper creation and online assessments.\n\u2022 Implemented Langchain based RAG evaluation system using FAISS and LLaMA 3 to generate MCQs, subjective\nquestions/answers, and enable auto-evaluation using gemini with manual grading support.\nPROJECTS\nRecruitAgent: AI-powered candidate screening and ranking system \u0087 GitHub\n\u2022 Built RecruitAgent AI, a multi-agent pipeline for automated resume parsing, scoring, and candidate ranking.\n\u2022 Leveraged LangGraph and Groq to extract insights, enrich profiles via GitHub/LinkedIn, and compute weighted\nevaluations.\n\u2022 Developed a FastAPI-based backend for real-time processing and intelligent shortlisting\nSafeSurf AI: ML-based System for Malicious Website Detection\n\u0087 GitHub\n\u2022 Designed and built an end-to-end data pipeline to ingest and preprocess website traffic and URL datasets for\nsecurity analysis.\n\u2022 Engineered a complete ML pipeline to verify websites as safe using ML models RF, DT, GBM, and LR.\n\u2022 Implemented CI/CD pipeline using GitHub Actions, containerized the application with Docker,Deployed the\nsolution on AWS EC2.\nACHIEVEMENTS\nImpact-Metrics: IIT Banaras\n\u2022 Secured 5th Rank in the final round of the Impact-Metrics 2024 hackathon.\n\u2022 Applied data cleaning, data transformaing, Data loading for the Earthquake dataset, Built a PowerBI dashboard\nand predictive model.\nCERTIFICATIONS\n\u2022 Machine Learning (NVIDIA)\n\u2022 Fundamentals of deep learning (COURSERA)\n\n--- EXTRACTED LINKS ---\nhttps://www.linkedin.com/in/kishor-patil-53982a25b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app\nhttps://github.com/kishorpatil87/Recruit-Agent\nhttps://github.com/kishorpatil87/Networksecurity\nmailto:kishorpatil7112@gmail.com\ntel:+918788156977\nhttps://github.com/kishorpatil87",
+        "full_name": "KISHOR PATIL",
+        "email": "kishorpatil7112@gmail.com",
+        "phone": "+91 8788156977",
+        "github_url": "https://github.com/kishorpatil87",
+        "linkedin_url": "https://www.linkedin.com/in/kishor-patil-53982a25b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        "skills": [
+          "Python",
+          "JavaScript",
+          "Kubernetes"
+        ],
+        "total_experience_years": 0.0,
+        "education": [
+          {
+            "degree": "Bachelor of Technology in Computer Science Engineering (AIML)",
+            "institution": "Vishwakarma Institute Of Information Technology, Pune, MH",
+            "year": "2022-2026",
+            "gpa": "8.2"
+          }
+        ],
+        "certifications": [
+          "Machine Learning",
+          "Fundamentals of deep learning"
+        ],
+        "projects": [
+          {
+            "name": "RecruitAgent: AI-powered candidate screening and ranking system",
+            "description": "Built a multi-agent pipeline for automated resume parsing, scoring, and candidate ranking.",
+            "techstack": [
+              "LangChain",
+              "LangGraph"
+            ]
+          },
+          {
+            "name": "SafeSurf AI: ML-based System for Malicious Website Detection",
+            "description": "Designed and built an end-to-end data pipeline to verify websites as safe using ML models.",
+            "techstack": [
+              "ML Models (RF, DT, GBM, LR)",
+              "CI/CD Pipeline"
+            ]
+          }
+        ],
+        "work_history": [
+          {
+            "company": "",
+            "title": "",
+            "start_date": "",
+            "end_date": "",
+            "is_current": false,
+            "description": ""
+          }
+        ],
+        "summary": "Computer Science student passionate about building scalable systems and working with Machine Learning, Generative AI."
+      },
+      "github": {
+        "username": "kishorpatil87",
+        "profile_url": "https://github.com/kishorpatil87",
+        "exists": true,
+        "public_repos": 21,
+        "followers": 0,
+        "total_commits_last_year": 0,
+        "contribution_streak_days": 0,
+        "top_languages": [
+          "Jupyter Notebook",
+          "Python",
+          "TypeScript",
+          "JavaScript"
+        ],
+        "stars_total": 0,
+        "jd_language_match": true,
+        "account_age_years": 2.5,
+        "bio": "CSE(AIML) Student at VIIT , Pune "
+      },
+      "linkedin": {
+        "profile_url": "https://www.linkedin.com/in/kishor-patil-53982a25b",
+        "exists": false,
+        "source": "none",
+        "headline": "",
+        "current_title": "",
+        "location": "",
+        "tenure_years": 0.0,
+        "connections": 0,
+        "summary": ""
+      },
+      "similarity_scores": {
+        "semantic_score": 0.3626,
+        "keyword_score": 1.0,
+        "composite_score": 0.6175
+      }
+    },
+    {
+      "dimension_scores": [
+        {
+          "dimension": "JD Match",
+          "raw_score": 14,
+          "weighted_score": 14.0,
+          "band": "adequate",
+          "rationale": "The skills listed in the job description (Python, FastAPI, Numpy, Pandas) partially overlap with those of the candidate. The education and work experience do not match the required or preferred skills."
+        },
+        {
+          "dimension": "Education",
+          "raw_score": 0,
+          "weighted_score": 0.0,
+          "band": "weak",
+          "rationale": "The degree is from a college, but it does not specify Computer Science. The GPA is missing and the education history does not match the required or preferred skills."
+        },
+        {
+          "dimension": "Technical Skills",
+          "raw_score": 15,
+          "weighted_score": 15.0,
+          "band": "adequate",
+          "rationale": "The candidate has experience with Java, JavaScript, TypeScript, React.js, Node.js, Express.js, Tailwind CSS, MongoDB, MySQL, AWS, Git, GitHub, Postman, Redux, Docker, Cloudinary, Vercel. These skills are relevant to the job description."
+        },
+        {
+          "dimension": "Project Quality",
+          "raw_score": 0,
+          "weighted_score": 0.0,
+          "band": "weak",
+          "rationale": "The projects listed do not match the required or preferred skills of the job. The projects are related to MERN Stack, DigitalOcean, MySQL, Stripe API, Cloudinary, and FastAPI."
+        },
+        {
+          "dimension": "Experience",
+          "raw_score": 0,
+          "weighted_score": 0.0,
+          "band": "weak",
+          "rationale": "The candidate has no relevant experience that matches the required or preferred skills of the job. The work history is not related to the job description."
+        },
+        {
+          "dimension": "GitHub Activity",
+          "raw_score": 15,
+          "weighted_score": 0.0,
+          "band": "weak",
+          "rationale": "The GitHub data shows a high number of public repositories and followers, but no commits or contribution streaks. The top languages are not relevant to the job description."
+        },
+        {
+          "dimension": "LinkedIn Presence",
+          "raw_score": 0,
+          "weighted_score": 0.0,
+          "band": "weak",
+          "rationale": "The LinkedIn data is missing, and there is no information about the candidate's professional activities or achievements."
+        }
+      ],
+      "total_score": 29.0,
+      "blocker_count": 0,
+      "missing_requirements": [],
+      "red_flags": [],
+      "confidence": "high",
+      "confidence_reason": "The candidate has relevant skills and experience, but does not match the required or preferred skills of the job. The lack of education details and work history is a concern.",
+      "suggested_questions": [],
+      "candidate_id": "cand_0002_8b3ebb",
+      "full_name": "VISHAL JAGDALE",
+      "email": "vishaljagdale6168@gmail.com",
+      "role_level": "junior",
+      "error": "",
+      "resume": {
+        "candidate_id": "cand_0002_8b3ebb",
+        "raw_path": "C:\\Users\\Kishor\\AppData\\Local\\Temp\\recruitment_pso1ks7n\\054a80ad05944ad3815abb27d335364f_VishalJagdale_Resume.pdf",
+        "raw_text": "VISHAL JAGDALE\n\u0083 +91 7378896168 | # vishaljagdale6168@gmail.com | \u00ef | \u00a7 | LeetCode\nSUMMARY\nComputer Science graduate skilled in MERN stack and Java development with experience building full-stack appli-\ncations and solving 350+ DSA problems, showcasing strong problem-solving and software engineering abilities.\nEDUCATION\nVishwakarma College of Arts, Commerce and Science\nPune, MH\nMaster of Science in Computer Science \u2014 Currently pursuing 1st semester\n2025\u20132027\nVishwakarma College of Arts, Commerce and Science\nPune, MH\nBachelor of Computer Science \u2014 CGPA: 7.75\n2022\u20132025\nTECHNICAL SKILLS\nLanguages: Java, JavaScript, Typescript\nFrameworks: React.js, Node.js, Express.js, Tailwind CSS\nDatabases: MongoDB, MySQL\nDeveloper Tools:AWS, Git, GitHub, Postman, Redux, Docker, Cloudinary, Vercel\nFundamentals: Object-Oriented Programming, Data Structures, Algorithms, Operating Systems, Computer Net-\nworking, Blockchain Technology\nEXPERIENCE\n5Tech G \u2014 Software Developer Intern\nJune 2025 \u2013 Present\n\u2022 Built multi-customer and invoicing modules for a manufacturing industry project; also handled direct\nclient communication.\n\u2022 Designed the MySQL database and developed backend APIs using Node.js for the RA Masala project.\n\u2022 Leading the development of a full-stack MLA project using the MERN stack.\n\u2022 Managing and mentoring a team of 3 interns, overseeing task assignments and development timelines.\nPROJECTS\nMLA Grievance \u2014 MERN Stack, DigitalOcean, MySQL, Vercel\n\u00a7\nJul 2025 \u2013 Aug 2025\n\u2022 Built a portal to digitize grievance records for MLA offices, replacing manual logs.\n\u2022 Designed dashboards with visual analytics for issue tracking and resolution status.\n\u2022 Added event scheduling and tracking for MLA activities with role-based access.\nHealthNodes \u2014 MERN Stack, FastAPI, Python, NLP, Deep Learning\n\u00a7\nJan 2025 \u2013 Feb 2025\n\u2022 Created an AI-powered disease prediction system using symptoms and skin images.\n\u2022 Integrated a chatbot for real-time medical queries and health advice.\n\u2022 Developed a medication reminder system with real-time notification alerts.\nLazyLearner \u2014 MERN Stack, Stripe, Cloudinary\n\u00a7\nNov 2024 \u2013 Jan 2025\n\u2022 Developed a role-based LMS platform for students and instructors.\n\u2022 Integrated Stripe API for seamless and secure payment handling.\n\u2022 Enabled dynamic course creation and used Cloudinary for media optimization.\nACHIEVEMENTS\n\u2022 Solved 350+ DSA problems on platforms like LeetCode and GFG.\n\u2022 Led a team in a national hackathon, securing a top-50 rank out of 400+ teams.\n\u2022 Earned a distinguished 100-day accomplishment badge on LeetCode.\n\n--- EXTRACTED LINKS ---\nmailto:vishaljagdale6168@gmail.com\nhttps://github.com/vishaldjagdale/LazyLearner\ntel:+917378896168\nhttps://www.linkedin.com/in/vishaldjagdale/\nhttps://github.com/5TechG-IT/Ticket_raiseing\nhttps://github.com/vishaldjagdale\nhttps://github.com/vishaldjagdale/Health\nhttps://leetcode.com/u/vishaljagdale/",
+        "full_name": "VISHAL JAGDALE",
+        "email": "vishaljagdale6168@gmail.com",
+        "phone": "+917378896168",
+        "github_url": "https://github.com/vishaldjagdale",
+        "linkedin_url": "https://www.linkedin.com/in/vishaldjagdale/",
+        "skills": [
+          "Java",
+          "JavaScript",
+          "TypeScript",
+          "React.js",
+          "Node.js",
+          "Express.js",
+          "Tailwind CSS",
+          "MongoDB",
+          "MySQL",
+          "AWS",
+          "Git",
+          "GitHub",
+          "Postman",
+          "Redux",
+          "Docker",
+          "Cloudinary",
+          "Vercel"
+        ],
+        "total_experience_years": 0.0,
+        "education": [
+          {
+            "degree": "Master of Science in Computer Science",
+            "institution": "Vishwakarma College of Arts, Commerce and Science",
+            "year": "2025\u20132027"
+          },
+          {
+            "degree": "Bachelor of Computer Science",
+            "institution": "Vishwakarma College of Arts, Commerce and Science",
+            "year": "2022\u20132025"
+          }
+        ],
+        "certifications": [
+          "LeetCode"
+        ],
+        "projects": [
+          {
+            "name": "MLA Grievance",
+            "description": "MERN Stack, DigitalOcean, MySQL, Vercel",
+            "techstack": [
+              "MERN Stack",
+              "DigitalOcean",
+              "MySQL"
+            ]
+          },
+          {
+            "name": "HealthNodes",
+            "description": "MERN Stack, FastAPI, Python, NLP, Deep Learning",
+            "techstack": [
+              "MERN Stack",
+              "FastAPI",
+              "Python",
+              "NLP",
+              "Deep Learning"
+            ]
+          },
+          {
+            "name": "LazyLearner",
+            "description": "MERN Stack, Stripe, Cloudinary",
+            "techstack": [
+              "MERN Stack",
+              "Stripe API",
+              "Cloudinary"
+            ]
+          }
+        ],
+        "work_history": [
+          {
+            "company": "",
+            "title": "",
+            "start_date": "June 2025 \u2013 Present",
+            "end_date": "Present",
+            "is_current": false,
+            "description": "Software Developer Intern"
+          },
+          {
+            "company": "5Tech G",
+            "title": "Software Developer Intern",
+            "start_date": "June 2025",
+            "end_date": "Present",
+            "is_current": true,
+            "description": "Built multi-customer and invoicing modules for a manufacturing industry project; also handled direct client communication. Designed the MySQL database and developed backend APIs using Node.js for the RA Masala project. Leading the development of a full-stack MLA project using the MERN stack. Managing and mentoring a team of 3 interns, overseeing task assignments and development timelines."
+          }
+        ],
+        "summary": "Computer Science graduate skilled in MERN stack and Java development with experience building full-stack applications and solving 350+ DSA problems, showcasing strong problem-solving and software engineering abilities."
+      },
+      "github": {
+        "username": "vishaldjagdale",
+        "profile_url": "https://github.com/vishaldjagdale",
+        "exists": true,
+        "public_repos": 32,
+        "followers": 3,
+        "total_commits_last_year": 0,
+        "contribution_streak_days": 0,
+        "top_languages": [
+          "JavaScript",
+          "Java",
+          "TypeScript",
+          "HCL",
+          "EJS"
+        ],
+        "stars_total": 3,
+        "jd_language_match": false,
+        "account_age_years": 2.6,
+        "bio": "\ud83c\udf93 Computer Science Undergraduate | \ud83d\udcbb Full-Stack Developer | \ud83c\udf1f Open Source Enthusiast\r\n\ud83d\udd0d Exploring AI, web development, and scalable solutions.\r\n\ud83d\udcc8 Building "
+      },
+      "linkedin": {
+        "profile_url": "https://www.linkedin.com/in/vishaldjagdale",
+        "exists": false,
+        "source": "none",
+        "headline": "",
+        "current_title": "",
+        "location": "",
+        "tenure_years": 0.0,
+        "connections": 0,
+        "summary": ""
+      },
+      "similarity_scores": {
+        "semantic_score": 0.3155,
+        "keyword_score": 0.5,
+        "composite_score": 0.3893
+      }
+    }
+  ],
+  "weights_used": {
+    "jd_match": 0.25,
+    "education": 0.1,
+    "technical_skills": 0.15,
+    "project_quality": 0.1,
+    "experience": 0.15,
+    "github": 0.15,
+    "linkedin": 0.1
+  },
+  "generated_at": "2026-04-14T13:27:27.648110",
+  "shortlisted": [
+    {
+      "rank": 1,
+      "candidate_id": "cand_0001_bf7c12",
+      "full_name": "UDIT PANJIYAR",
+      "email": "udit.30mi@gmail.com",
+      "total_score": 63.32,
+      "blocker_count": 0,
+      "delta_to_next": 23.32,
+      "confidence": "high",
+      "confidence_reason": "The candidate has a strong educational background and some experience in relevant technologies, which aligns with the job description's requirements.",
+      "top_skills": [
+        "JavaScript",
+        "Java",
+        "CSS",
+        "C++",
+        "HTML"
+      ],
+      "red_flag_count": 0,
+      "red_flags": [],
+      "missing_requirements": [],
+      "suggested_questions": [
+        "Can you share your projects that demonstrate backend skills?"
+      ],
+      "dimension_scores": [
+        {
+          "dimension": "JD Match",
+          "raw_score": 5,
+          "weighted_score": 8.33,
+          "band": "adequate",
+          "rationale": "The skills listed in the job description (Python, FastAPI, NumPy, Pandas) partially overlap with the candidate's experience and education."
+        },
+        {
+          "dimension": "Education",
+          "raw_score": 10,
+          "weighted_score": 8.33,
+          "band": "adequate",
+          "rationale": "The candidate has a strong educational background in Information Technology, which is relevant to the job description's domain (ML)."
+        },
+        {
+          "dimension": "Technical Skills",
+          "raw_score": 15,
+          "weighted_score": 15.0,
+          "band": "adequate",
+          "rationale": "The candidate has experience in JavaScript, Java, CSS, C++, HTML, and some backend technologies like Node.js, Express, React, Redux Toolkit, Tailwind CSS, which are relevant to the job description's domain (ML)."
+        },
+        {
+          "dimension": "Project Quality",
+          "raw_score": 10,
+          "weighted_score": 8.33,
+          "band": "adequate",
+          "rationale": "The candidate has projects that demonstrate experience in backend technologies and some frontend frameworks, which are relevant to the job description's domain (ML)."
+        },
+        {
+          "dimension": "Experience",
+          "raw_score": 0,
+          "weighted_score": 0.0,
+          "band": "weak",
+          "rationale": "The candidate has no experience in Python or any backend technologies listed in the job description."
+        },
+        {
+          "dimension": "GitHub Activity",
+          "raw_score": 15,
+          "weighted_score": 15.0,
+          "band": "adequate",
+          "rationale": "The candidate's GitHub profile shows some contributions to various languages, which are relevant to the job description's domain (ML)."
+        },
+        {
+          "dimension": "LinkedIn Presence",
+          "raw_score": 10,
+          "weighted_score": 8.33,
+          "band": "adequate",
+          "rationale": "The candidate has a LinkedIn profile, but it is incomplete and does not mention any relevant projects or skills."
+        }
+      ],
+      "error": "",
+      "justification": "Score: 63.32/100 | Confidence: high | Blockers: 0"
+    },
+    {
+      "rank": 2,
+      "candidate_id": "cand_0000_8eaa39",
+      "full_name": "KISHOR PATIL",
+      "email": "kishorpatil7112@gmail.com",
+      "total_score": 40.0,
+      "blocker_count": 0,
+      "delta_to_next": 11.0,
+      "confidence": "high",
+      "confidence_reason": "The candidate's skills and experience do not match the job description or preferred skills, resulting in a low score. The lack of relevant projects and GitHub/LinkedIn data further contributes to the low score.",
+      "top_skills": [
+        "Python",
+        "JavaScript",
+        "Kubernetes"
+      ],
+      "red_flag_count": 0,
+      "red_flags": [],
+      "missing_requirements": [],
+      "suggested_questions": [
+        "Could you provide more details on your previous work experience?",
+        "What are some examples of projects where you have used Python and JavaScript?"
+      ],
+      "dimension_scores": [
+        {
+          "dimension": "JD Match",
+          "raw_score": 5,
+          "weighted_score": 10.0,
+          "band": "adequate",
+          "rationale": "The skills listed in the job description (Python, FastAPI, NumPy, Pandas) partially overlap with the candidate's skills (Python, JavaScript, Kubernetes). The preferred skills do not match any of the candidate's skills."
+        },
+        {
+          "dimension": "Education",
+          "raw_score": 10,
+          "weighted_score": 5.0,
+          "band": "adequate",
+          "rationale": "The degree is relevant to the field of computer science engineering, and the GPA is high. The candidate has completed their education within the required timeframe."
+        },
+        {
+          "dimension": "Technical Skills",
+          "raw_score": 10,
+          "weighted_score": 5.0,
+          "band": "adequate",
+          "rationale": "The skills listed in the job description partially overlap with the candidate's skills. The preferred skills do not match any of the candidate's skills."
+        },
+        {
+          "dimension": "Project Quality",
+          "raw_score": 0,
+          "weighted_score": 5.0,
+          "band": "weak",
+          "rationale": "No projects listed in the job description or work history match with the candidate's projects. The projects focus on automated resume parsing and data verification, which are not related to ML."
+        },
+        {
+          "dimension": "Experience",
+          "raw_score": 0,
+          "weighted_score": 5.0,
+          "band": "weak",
+          "rationale": "No experience listed in the job description or work history matches with the candidate's experience. The candidate has not worked in any relevant field."
+        },
+        {
+          "dimension": "GitHub Activity",
+          "raw_score": 0,
+          "weighted_score": 5.0,
+          "band": "weak",
+          "rationale": "No GitHub activity data is available, and it is absent as per the provided information. The candidate has not contributed to any public repositories."
+        },
+        {
+          "dimension": "LinkedIn Presence",
+          "raw_score": 0,
+          "weighted_score": 5.0,
+          "band": "weak",
+          "rationale": "No LinkedIn data available, and it is absent as per the provided information. The candidate has not established a professional presence on LinkedIn."
+        }
+      ],
+      "error": "",
+      "justification": "Score: 40.0/100 | Confidence: high | Blockers: 0"
+    }
+  ]
+}

@@ -1,0 +1,596 @@
+{
+  "run_id": "53b23675-ee3d-4c7a-a280-4686c04e1ac2",
+  "jd_title": " Python Engineer",
+  "jd_company": "",
+  "role_level": "mid",
+  "total_candidates": 2,
+  "fast_track_count": 0,
+  "shortlist_count": 0,
+  "hold_count": 0,
+  "reject_count": 2,
+  "entries": [
+    {
+      "rank": 1,
+      "candidate_id": "cand_0001_e0ec6a",
+      "full_name": "KISHOR PATIL",
+      "email": "kishorpatil7112@gmail.com",
+      "total_score": 38.0,
+      "decision": "reject",
+      "fast_track": false,
+      "blocker_count": 1,
+      "delta_to_next": 26.0,
+      "confidence": "medium",
+      "confidence_reason": "Limited information on work history and GitHub activity",
+      "top_skills": [
+        "Languages: C++",
+        "Python",
+        "SQL",
+        "Data Engineering: ETL",
+        "Data Cleaning"
+      ],
+      "red_flag_count": 2,
+      "red_flags": [
+        "Low experience",
+        "Low GitHub activity"
+      ],
+      "missing_requirements": [
+        {
+          "skill": "2+ years of experience",
+          "severity": "blocker"
+        }
+      ],
+      "suggested_questions": [
+        "Can you explain your experience with FastAPI?",
+        "How do you handle data structure and algorithm problems?",
+        "Can you walk me through your project on data pipeline design?"
+      ],
+      "dimension_scores": [
+        {
+          "dimension": "JD Match",
+          "raw_score": 42,
+          "weighted_score": 10.0,
+          "band": "weak",
+          "rationale": "Low keyword overlap and TF-IDF similarity"
+        },
+        {
+          "dimension": "Education",
+          "raw_score": 80,
+          "weighted_score": 8.0,
+          "band": "strong",
+          "rationale": "High GPA and relevant field of study"
+        },
+        {
+          "dimension": "Technical Skills",
+          "raw_score": 70,
+          "weighted_score": 10.0,
+          "band": "strong",
+          "rationale": "Relevant skills in data engineering, MLOps, and AI & ML"
+        },
+        {
+          "dimension": "Project Quality",
+          "raw_score": 60,
+          "weighted_score": 6.0,
+          "band": "adequate",
+          "rationale": "Some relevant projects, but lack of detail and complexity"
+        },
+        {
+          "dimension": "Experience",
+          "raw_score": 10,
+          "weighted_score": 1.0,
+          "band": "weak",
+          "rationale": "Less than required experience"
+        },
+        {
+          "dimension": "GitHub Activity",
+          "raw_score": 20,
+          "weighted_score": 3.0,
+          "band": "weak",
+          "rationale": "Low activity and no recent contributions"
+        },
+        {
+          "dimension": "LinkedIn Presence",
+          "raw_score": 0,
+          "weighted_score": 0.0,
+          "band": "absent",
+          "rationale": "No LinkedIn data available"
+        }
+      ],
+      "error": ""
+    },
+    {
+      "rank": 2,
+      "candidate_id": "cand_0000_a8ea9b",
+      "full_name": "DINESH SAHARE",
+      "email": "dsahare024@gmail.com",
+      "total_score": 12.0,
+      "decision": "reject",
+      "fast_track": false,
+      "blocker_count": 1,
+      "delta_to_next": 0.0,
+      "confidence": "low",
+      "confidence_reason": "Limited relevant information available in the candidate's profile",
+      "top_skills": [
+        "steering",
+        "and suspension",
+        "hubs",
+        "and wheel assemblies to improve",
+        "handling"
+      ],
+      "red_flag_count": 2,
+      "red_flags": [
+        "Lack of relevant technical skills",
+        "No clear relevance of experience to the job description or domain"
+      ],
+      "missing_requirements": [
+        {
+          "skill": "Python",
+          "severity": "blocker"
+        }
+      ],
+      "suggested_questions": [
+        "Can you explain your experience with Python and FastAPI?",
+        "How do you think your skills and experience align with the job description?",
+        "Can you provide examples of projects you've worked on that demonstrate your technical skills?"
+      ],
+      "dimension_scores": [
+        {
+          "dimension": "JD Match",
+          "raw_score": 0,
+          "weighted_score": 0.0,
+          "band": "absent",
+          "rationale": "No relevant skills or experience mentioned in the candidate's profile"
+        },
+        {
+          "dimension": "Education",
+          "raw_score": 4,
+          "weighted_score": 4.0,
+          "band": "weak",
+          "rationale": "Multiple degrees but no clear relevance to the job description or domain"
+        },
+        {
+          "dimension": "Technical Skills",
+          "raw_score": 0,
+          "weighted_score": 0.0,
+          "band": "absent",
+          "rationale": "No relevant technical skills mentioned in the candidate's profile"
+        },
+        {
+          "dimension": "Project Quality",
+          "raw_score": 2,
+          "weighted_score": 2.0,
+          "band": "weak",
+          "rationale": "Projects mentioned are not relevant to the job description or domain"
+        },
+        {
+          "dimension": "Experience",
+          "raw_score": 6,
+          "weighted_score": 6.0,
+          "band": "strong",
+          "rationale": "6.4 years of experience, but not clearly relevant to the job description or domain"
+        },
+        {
+          "dimension": "GitHub Activity",
+          "raw_score": 0,
+          "weighted_score": 0.0,
+          "band": "absent",
+          "rationale": "No GitHub data available"
+        },
+        {
+          "dimension": "LinkedIn Presence",
+          "raw_score": 0,
+          "weighted_score": 0.0,
+          "band": "absent",
+          "rationale": "No LinkedIn data available"
+        }
+      ],
+      "error": ""
+    }
+  ],
+  "scorecards": [
+    {
+      "dimension_scores": [
+        {
+          "dimension": "JD Match",
+          "raw_score": 42,
+          "weighted_score": 10.0,
+          "band": "weak",
+          "rationale": "Low keyword overlap and TF-IDF similarity"
+        },
+        {
+          "dimension": "Education",
+          "raw_score": 80,
+          "weighted_score": 8.0,
+          "band": "strong",
+          "rationale": "High GPA and relevant field of study"
+        },
+        {
+          "dimension": "Technical Skills",
+          "raw_score": 70,
+          "weighted_score": 10.0,
+          "band": "strong",
+          "rationale": "Relevant skills in data engineering, MLOps, and AI & ML"
+        },
+        {
+          "dimension": "Project Quality",
+          "raw_score": 60,
+          "weighted_score": 6.0,
+          "band": "adequate",
+          "rationale": "Some relevant projects, but lack of detail and complexity"
+        },
+        {
+          "dimension": "Experience",
+          "raw_score": 10,
+          "weighted_score": 1.0,
+          "band": "weak",
+          "rationale": "Less than required experience"
+        },
+        {
+          "dimension": "GitHub Activity",
+          "raw_score": 20,
+          "weighted_score": 3.0,
+          "band": "weak",
+          "rationale": "Low activity and no recent contributions"
+        },
+        {
+          "dimension": "LinkedIn Presence",
+          "raw_score": 0,
+          "weighted_score": 0.0,
+          "band": "absent",
+          "rationale": "No LinkedIn data available"
+        }
+      ],
+      "total_score": 38.0,
+      "blocker_count": 1,
+      "missing_requirements": [
+        {
+          "skill": "2+ years of experience",
+          "severity": "blocker"
+        }
+      ],
+      "red_flags": [
+        "Low experience",
+        "Low GitHub activity"
+      ],
+      "confidence": "medium",
+      "confidence_reason": "Limited information on work history and GitHub activity",
+      "suggested_questions": [
+        "Can you explain your experience with FastAPI?",
+        "How do you handle data structure and algorithm problems?",
+        "Can you walk me through your project on data pipeline design?"
+      ],
+      "decision": "reject",
+      "fast_track": false,
+      "candidate_id": "cand_0001_e0ec6a",
+      "full_name": "KISHOR PATIL",
+      "email": "kishorpatil7112@gmail.com",
+      "role_level": "junior",
+      "error": "",
+      "resume": {
+        "candidate_id": "cand_0001_e0ec6a",
+        "raw_path": "C:\\Users\\Kishor\\AppData\\Local\\Temp\\recruitment__quxekpx\\7a946ed6997340e0940acd394ee6b55d_kishor_patil_ress_26.pdf",
+        "raw_text": "KISHOR PATIL\n+91 8788156977 | kishorpatil7112@gmail.com | LinkedIn | GitHub\nSUMMARY\nComputer Science student focused on building scalable data-driven systems using Data Engineering, Machine Learning,\nand Cloud technologies. Experienced in designing end-to-end pipelines, data processing workflows, and AI-powered\napplications. Eager to apply my skills to real-world problems and grow as a data-focused engineer.\nEDUCATION\nVishwakarma Institute Of Information Technology,\nPune, MH\nBachelor of Technology in Computer Science Engineering (AIML); CGPA: 8.2\n2022-2026\nTECHNICAL SKILLS\nLanguages: C++, Python, SQL\nData Engineering: ETL, Data Cleaning, Data Transformation, Data Warehousing\nDatabases: MySQL , MongoDB\nMLOps: MLflow, DagsHub, Docker, CI/CD (Github Actions), AWS\nData Visualization: Matplotlib, Power BI\nAI & ML: Machine Learning , Deep Learning, Natural Language Processing, Generative AI, Agentic AI\nCourses: Data Structures, Algorithms, DBMS, OOP, Operating Systems\nEXPERIENCE\nIntern | Two Registers\n(July 2025 - oct 2025)\n\u2022 Developed a web-based online examination system supporting question paper creation and online assessments.\n\u2022 Implemented a RAG-based evaluation system using FAISS and LLaMA 3 to generate MCQs, subjective ques-\ntions/answers, and enable auto-evaluation using gemini with manual grading support.\nPROJECTS\nHealthNodes: AI-Powered Healthcare Assistant (Nov 2024)\n\u2022 Performed data cleaning, feature engineering, and text normalization to prepare high-quality inputs for NLP-based\nclassification models.\n\u2022 Fine-Tuned BioBERT Transformer model for the prediction of human diseases based on text symptom Description.\n\u2022 Trained deep learning sequential model to detect the skin disease based on skin images.\nNetworksecurity (Jan 2025)\n\u2022 Designed and built an end-to-end data pipeline to ingest and preprocess website traffic and URL datasets for\nsecurity analysis.\n\u2022 Engineered a complete ML pipeline to verify websites as safe using ML models RF, DT, GBM, LR,and AdaBoost.\n\u2022 Deployed the solution on AWS EC2, with model artifacts stored in S3 bucket .\nCERTIFICATIONS\n\u2022 Data Engineering (NVIDIA)\n\u2022 Fundamentals of deep learning (COURSERA)\nACHIEVEMENTS\nImpact-Metrics: IIT Banaras (Dec 2024)\n\u2022 Secured 5th Rank in the final round of the Impact-Metrics 2024 hackathon.\n\u2022 Applied data cleaning, data transformaing, Data loading for the Earthquake dataset, Built a PowerBI dashboard.\n\n--- EXTRACTED LINKS ---\nhttps://www.linkedin.com/in/kishor-patil-53982a25b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app\ntel:+918788156977\nhttps://github.com/kishorpatil87\nmailto:kishorpatil7112@gmail.com",
+        "full_name": "KISHOR PATIL",
+        "email": "kishorpatil7112@gmail.com",
+        "phone": "+91 8788156977",
+        "github_url": "https://github.com/kishorpatil87",
+        "linkedin_url": "https://www.linkedin.com/in/kishor-patil-53982a25b",
+        "skills": [
+          "Languages: C++",
+          "Python",
+          "SQL",
+          "Data Engineering: ETL",
+          "Data Cleaning",
+          "Data Transformation",
+          "Data Warehousing",
+          "Databases: MySQL",
+          "MongoDB",
+          "MLOps: MLflow",
+          "DagsHub",
+          "Docker",
+          "CI/CD (Github Actions",
+          "AWS",
+          "Data Visualization: Matplotlib",
+          "Power BI",
+          "AI & ML: Machine Learning",
+          "Deep Learning",
+          "Natural Language Processing",
+          "Generative AI",
+          "Agentic AI",
+          "Courses: Data Structures",
+          "Algorithms",
+          "DBMS",
+          "OOP",
+          "Operating Systems"
+        ],
+        "total_experience_years": 0.2,
+        "education": [
+          {
+            "degree": "ma",
+            "institution": "Pune",
+            "year": "20",
+            "gpa": "8.2"
+          },
+          {
+            "degree": "Ba",
+            "institution": "",
+            "year": "20",
+            "gpa": "8.2"
+          }
+        ],
+        "certifications": [
+          "NVIDIA",
+          "COURSERA)"
+        ],
+        "projects": [
+          {
+            "name": "HealthNodes: AI-Powered Healthcare Assistant (Nov 2024)",
+            "description": "Performed data cleaning, feature engineering, and text normalization to prepare high-quality inputs for NLP-based classification models. Fine-Tuned BioBERT Transformer model for the prediction of human diseases based on text symptom Description. Trained deep learning sequential model to detect the skin disease based on skin images.",
+            "techstack": [
+              "NLP",
+              "Transformer"
+            ]
+          },
+          {
+            "name": "Networksecurity (Jan 2025)",
+            "description": "Designed and built an end-to-end data pipeline to ingest and preprocess website traffic and URL datasets for security analysis. Engineered a complete ML pipeline to verify websites as safe using ML models RF, DT, GBM, LR,and AdaBoost. Deployed the solution on AWS EC2, with model artifacts stored in S3 bucket .",
+            "techstack": [
+              "AWS",
+              "S3",
+              "EC2"
+            ]
+          }
+        ],
+        "work_history": []
+      },
+      "github": {
+        "username": "kishorpatil87",
+        "profile_url": "https://github.com/kishorpatil87",
+        "exists": true,
+        "public_repos": 20,
+        "followers": 0,
+        "total_commits_last_year": 0,
+        "contribution_streak_days": 0,
+        "top_languages": [
+          "Jupyter Notebook",
+          "Python",
+          "TypeScript",
+          "JavaScript"
+        ],
+        "stars_total": 0,
+        "jd_language_match": true,
+        "account_age_years": 2.5,
+        "bio": "CSE(AIML) Student at VIIT , Pune "
+      },
+      "linkedin": {
+        "profile_url": "https://www.linkedin.com/in/kishor-patil-53982a25b",
+        "exists": false,
+        "source": "none",
+        "headline": "",
+        "current_title": "",
+        "location": "",
+        "tenure_years": 0.0,
+        "connections": 0,
+        "summary": ""
+      },
+      "similarity_scores": {
+        "semantic_score": 0.4845,
+        "keyword_score": 0.3333,
+        "composite_score": 0.424
+      }
+    },
+    {
+      "dimension_scores": [
+        {
+          "dimension": "JD Match",
+          "raw_score": 0,
+          "weighted_score": 0.0,
+          "band": "absent",
+          "rationale": "No relevant skills or experience mentioned in the candidate's profile"
+        },
+        {
+          "dimension": "Education",
+          "raw_score": 4,
+          "weighted_score": 4.0,
+          "band": "weak",
+          "rationale": "Multiple degrees but no clear relevance to the job description or domain"
+        },
+        {
+          "dimension": "Technical Skills",
+          "raw_score": 0,
+          "weighted_score": 0.0,
+          "band": "absent",
+          "rationale": "No relevant technical skills mentioned in the candidate's profile"
+        },
+        {
+          "dimension": "Project Quality",
+          "raw_score": 2,
+          "weighted_score": 2.0,
+          "band": "weak",
+          "rationale": "Projects mentioned are not relevant to the job description or domain"
+        },
+        {
+          "dimension": "Experience",
+          "raw_score": 6,
+          "weighted_score": 6.0,
+          "band": "strong",
+          "rationale": "6.4 years of experience, but not clearly relevant to the job description or domain"
+        },
+        {
+          "dimension": "GitHub Activity",
+          "raw_score": 0,
+          "weighted_score": 0.0,
+          "band": "absent",
+          "rationale": "No GitHub data available"
+        },
+        {
+          "dimension": "LinkedIn Presence",
+          "raw_score": 0,
+          "weighted_score": 0.0,
+          "band": "absent",
+          "rationale": "No LinkedIn data available"
+        }
+      ],
+      "total_score": 12.0,
+      "blocker_count": 1,
+      "missing_requirements": [
+        {
+          "skill": "Python",
+          "severity": "blocker"
+        }
+      ],
+      "red_flags": [
+        "Lack of relevant technical skills",
+        "No clear relevance of experience to the job description or domain"
+      ],
+      "confidence": "low",
+      "confidence_reason": "Limited relevant information available in the candidate's profile",
+      "suggested_questions": [
+        "Can you explain your experience with Python and FastAPI?",
+        "How do you think your skills and experience align with the job description?",
+        "Can you provide examples of projects you've worked on that demonstrate your technical skills?"
+      ],
+      "decision": "reject",
+      "fast_track": false,
+      "candidate_id": "cand_0000_a8ea9b",
+      "full_name": "DINESH SAHARE",
+      "email": "dsahare024@gmail.com",
+      "role_level": "junior",
+      "error": "",
+      "resume": {
+        "candidate_id": "cand_0000_a8ea9b",
+        "raw_path": "C:\\Users\\Kishor\\AppData\\Local\\Temp\\recruitment__quxekpx\\3135f16f9d1648c68f02ff4128e6b3b0_Dinesh_Sahare(CV).pdf",
+        "raw_text": "DINESH SAHARE\n+91 8007339218 | dsahare024@gmail.com | linkedin |\nEDUCATION\nManikgarh Cement English School : 10th CBSE Board\nGadchandur, MH 2020\nSavatri Bai Fule Jr. College: 12th State Board\nGadchandur, MH 2022\nVishwakarma Institute Of Information Technology,\nPune, MH\nBachelor of Technology in Mechanical Engineering,\n2022-2026\nSKILLS\n\u2022 Advanced CAD & CAE Proficiency:Expert in 3D modeling and assembly using SolidWorks. Proficient in ANSYS\nWorkbench for Finite Element Analysis (FEA) to simulate and analyze structural performance.\n\u2022 Vehicle Dynamics & Component Design: Strong understanding of vehicle dynamics, steering, and suspension\nsystems. Skilled in designing and optimizing components like uprights, hubs, and wheel assemblies to improve\nhandling, durability, and performance.\n\u2022 Material & Manufacturing Knowledge: Adept at material selection based on performance requirements, with a\nclear understanding of its impact on the design and manufacturing process.\nEXPERIENCE (FORMULA STUDENT)\nFEA | Ansys Workbench Design of Knuckle and HUB\nJan 2023 - June 2025\nEngineered and validated the knuckle/upright and hub assembly, ensuring performance under dynamic loads,\nwhich was successfully implemented and is currently in use on the vehicle. Delivered a functional and reli-\nable suspension component design (knuckle/upright and hub) adopted in the final race car, ensuring improved\nperformance and durability.\nManufacturing Lead | vishwaracers\nOct 2024 - June 2025\nManaged the entire manufacturing process, ensuring timely completion and adherence to design and quality\nstandards. Improved production workflows, resource allocation, and quality control to enhance efficiency and\nsafety.\nVehicle Dynamics | vishwaracers\nJan 2023- June 2025\nOwned design of knuckle/upright and hub assemblies; set suspension geometry (camber, caster, KPI, scrub\nradius, roll center); and developed the steering system and steering wheel, with 3D CAD modeling and basic\nstructural checks.\nMedia Lead | vishwaracers\nOct 2024 - June 2025\nManaged and boost-up the student formula team\u2019s brand presence through effective communication, content\ncreation, and promotional campaigns, which increased team visibility and secured sponsorship.\nDalmia Cement(Internship) | ccw\nAug 2025 - Nov 2025\nCompleted internship at Dalmia Cement, gaining hands-on exposure to industrial processes and quality control,\nwhile learning the complete production of cement from raw material (limestone) to the final product.\nPROJECTS\nVersatile Folding Table | Link\nNov2024\n\u2022 Designed and developed a versatile folding table showcasing innovative, practical, and space-efficient design\nsolutions.\nVersatile Folding Clothes Rack/Stand |Link\nApril 2025\n\u2022 Designed and developed a versatile folding clothes rack/stand, combining functionality, durability, and space-\nsaving design.\n\n--- EXTRACTED LINKS ---\nhttps://docs.google.com/document/d/1iNeTaHQDZ_6S0ANyw5R2m44hxI7srJmm/edit?usp=sharing&ouid=103545052442470391583&rtpof=true&sd=true/\nmailto:dsahare024@gmail.com\nhttps://docs.google.com/document/d/1OnKwISYMBfpehBi3Pt_KB4D9R7genpgn/edit?usp=sharing&ouid=103545052442470391583&rtpof=true&sd=true/\nhttps://drive.google.com/file/d/1u0U8Op1q_QReBcEofebBYhKmDkbwJohv/view?usp=sharing/\nhttps://www.linkedin.com/in/dinesh-sahare-37b4a7258/",
+        "full_name": "DINESH SAHARE",
+        "email": "dsahare024@gmail.com",
+        "phone": "+91 8007339218",
+        "github_url": "",
+        "linkedin_url": "https://www.linkedin.com/in/dinesh-sahare-37b4a7258",
+        "skills": [
+          "steering",
+          "and suspension",
+          "hubs",
+          "and wheel assemblies to improve",
+          "handling",
+          "durability",
+          "and performance.",
+          "with a",
+          "EXPERIENCE (FORMULA STUDENT",
+          "FEA",
+          "Ansys Workbench Design of Knuckle and HUB",
+          "Jan 2023",
+          "June 2025",
+          "ensuring performance under dynamic loads",
+          "ensuring improved",
+          "performance and durability.",
+          "Manufacturing Lead",
+          "vishwaracers",
+          "Oct 2024",
+          "Managed the entire manufacturing process",
+          "standards. Improved production workflows",
+          "resource allocation",
+          "and quality control to enhance efficiency and",
+          "safety.",
+          "Vehicle Dynamics",
+          "Owned design of knuckle/upright and hub assemblies",
+          "set suspension geometry (camber",
+          "caster",
+          "KPI",
+          "scrub",
+          "radius",
+          "roll center",
+          "and developed the steering system and steering wheel",
+          "with 3D CAD modeling and basic",
+          "structural checks.",
+          "Media Lead",
+          "Managed and boost",
+          "content",
+          "creation",
+          "and promotional campaigns",
+          "which increased team visibility and secured sponsorship.",
+          "Dalmia Cement(Internship",
+          "ccw",
+          "Aug 2025",
+          "Nov 2025",
+          "Completed internship at Dalmia Cement",
+          "gaining hands",
+          "on exposure to industrial processes and quality control"
+        ],
+        "total_experience_years": 6.4,
+        "education": [
+          {
+            "degree": "Ma",
+            "institution": "Gadchandur",
+            "year": "20"
+          },
+          {
+            "degree": "Ba",
+            "institution": "Gadchandur",
+            "year": "20"
+          },
+          {
+            "degree": "ma",
+            "institution": "Pune",
+            "year": "20"
+          },
+          {
+            "degree": "Ba",
+            "institution": "",
+            "year": "20"
+          }
+        ],
+        "certifications": [],
+        "projects": [
+          {
+            "name": "Nov2024",
+            "description": "Designed and developed a versatile folding table showcasing innovative, practical, and space-efficient design solutions.",
+            "techstack": []
+          },
+          {
+            "name": "April 2025",
+            "description": "Designed and developed a versatile folding clothes rack/stand, combining functionality, durability, and space- saving design.",
+            "techstack": []
+          },
+          {
+            "name": "EXTRACTED LINKS ---",
+            "description": "https://docs.google.com/document/d/1iNeTaHQDZ_6S0ANyw5R2m44hxI7srJmm/edit?usp=sharing&ouid=103545052442470391583&rtpof=true&sd=true/ mailto:dsahare024@gmail.com https://docs.google.com/document/d/1OnKwISYMBfpehBi3Pt_KB4D9R7genpgn/edit?usp=sharing&ouid=103545052442470391583&rtpof=true&sd=true/ https://drive.google.com/file/d/1u0U8Op1q_QReBcEofebBYhKmDkbwJohv/view?usp=sharing/ https://www.linkedin.com/in/dinesh-sahare-37b4a7258/",
+            "techstack": []
+          }
+        ],
+        "work_history": []
+      },
+      "github": {},
+      "linkedin": {
+        "profile_url": "https://www.linkedin.com/in/dinesh-sahare-37b4a7258",
+        "exists": false,
+        "source": "none",
+        "headline": "",
+        "current_title": "",
+        "location": "",
+        "tenure_years": 0.0,
+        "connections": 0,
+        "summary": ""
+      },
+      "similarity_scores": {
+        "semantic_score": 0.2338,
+        "keyword_score": 0.0,
+        "composite_score": 0.1403
+      }
+    }
+  ],
+  "weights_used": {
+    "jd_match": 0.3333333333333333,
+    "education": 0.07407407407407407,
+    "technical_skills": 0.1111111111111111,
+    "project_quality": 0.07407407407407407,
+    "experience": 0.1111111111111111,
+    "github": 0.18518518518518517,
+    "linkedin": 0.1111111111111111
+  },
+  "thresholds": {
+    "fast_track": 88,
+    "shortlist": 75,
+    "hold": 50
+  },
+  "generated_at": "2026-04-03T08:40:20.153061",
+  "shortlisted": []
+}

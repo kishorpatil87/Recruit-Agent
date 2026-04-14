@@ -1,0 +1,20 @@
+# Recruitment Report — Python Engineer
+Generated: 2026-04-02T20:48:22.585448
+
+## Summary
+| Metric | Count |
+|--------|-------|
+| Total Candidates | 4 |
+| ⚡ Fast Track | 0 |
+| ✅ Shortlist | 0 |
+| ⏸ Hold | 3 |
+| ❌ Reject | 1 |
+
+## Ranked Candidates
+
+| Rank | Name | Score | Decision | Confidence | Blockers |
+|------|------|-------|----------|------------|----------|
+| 1 | Kishor Patil | 55.0 | ⏸ Hold | high | 0 |
+| 2 | Kishor Patil | 55.0 | ⏸ Hold | high | 0 |
+| 3 | KISHOR PATIL | 52.8 | ⏸ Hold | high | 0 |
+| 4 | Thermodynamics Interview Questions | 0.0 | ❌ Reject | low | 1 |
